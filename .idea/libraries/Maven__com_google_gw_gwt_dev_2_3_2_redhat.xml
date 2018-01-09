@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.gw:gwt-dev:2.3.2-redhat">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repositoryidea/com/google/gw/gwt-dev/2.3.2-redhat/gwt-dev-2.3.2-redhat.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repositoryidea/com/google/gw/gwt-dev/2.3.2-redhat/gwt-dev-2.3.2-redhat-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repositoryidea/com/google/gw/gwt-dev/2.3.2-redhat/gwt-dev-2.3.2-redhat-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

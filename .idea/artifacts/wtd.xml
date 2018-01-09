@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" build-on-make="true" name="wtd">
+    <output-path>$PROJECT_DIR$/classes/artifacts/wtd</output-path>
+    <root id="root">
+      <element id="directory" name="wtdapicases">
+        <element id="dir-copy" path="$PROJECT_DIR$/wtdapicases" />
+      </element>
+      <element id="directory" name="wtdwebuicases">
+        <element id="dir-copy" path="$PROJECT_DIR$/wtdwebuicases" />
+      </element>
+      <element id="directory" name="config">
+        <element id="dir-copy" path="$PROJECT_DIR$/config" />
+      </element>
+      <element id="directory" name="bin">
+        <element id="directory" name="lib">
+          <element id="artifact" artifact-name="wtd:jar" />
+        </element>
+        <element id="dir-copy" path="$PROJECT_DIR$/bin" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/wtd.bat" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/wtdapplication.bat" />
+      <element id="directory" name=".idea">
+        <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources/.idea" />
+      </element>
+      <element id="directory" name="runcasetest">
+        <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources/runcasetest" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/wtd.iml" />
+    </root>
+  </artifact>
+</component>

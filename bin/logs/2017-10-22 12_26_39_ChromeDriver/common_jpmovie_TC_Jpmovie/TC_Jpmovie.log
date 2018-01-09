@@ -1,0 +1,115 @@
+147035 [main] INFO TC_Jpmovie.class - ip success  host:94.182.183.35:8080:中国:3:62:1508643166918
+228073 [main] INFO TC_Jpmovie.class - ip failed!!  host:122.142.50.53:8088:中国:3:62:1508643166918
+304174 [main] INFO TC_Jpmovie.class - ip failed!!  host:45.40.135.204:808:中国:3:31:1508645640351
+454012 [main] INFO TC_Jpmovie.class - ip failed!!  host:125.141.200.26:80:中国:3:31:1508645640351
+678778 [main] INFO TC_Jpmovie.class - ip failed!!  host:103.235.245.35:8080:中国:3:31:1508645640351
+754791 [main] INFO TC_Jpmovie.class - ip failed!!  host:122.13.15.8:80:中国:3:31:1508645640351
+831142 [main] INFO TC_Jpmovie.class - ip failed!!  host:209.198.197.165:80:中国:3:31:1508645640351
+908513 [main] INFO TC_Jpmovie.class - ip failed!!  host:188.166.172.221:8118:中国:3:31:1508645640351
+984819 [main] INFO TC_Jpmovie.class - ip failed!!  host:162.243.108.129:3128:中国:3:31:1508645640351
+1075449 [main] INFO TC_Jpmovie.class - ip failed!!  host:41.65.168.50:8080:中国:3:31:1508645640351
+1226287 [main] INFO TC_Jpmovie.class - ip failed!!  host:103.224.127.123:3128:中国:3:31:1508645640351
+1302496 [main] INFO TC_Jpmovie.class - ip failed!!  host:46.101.62.50:8118:中国:3:31:1508645640351
+1378576 [main] INFO TC_Jpmovie.class - ip failed!!  host:60.205.230.187:1080:中国:3:31:1508645640351
+1484066 [main] INFO TC_Jpmovie.class - ip failed!!  host:109.197.188.19:8080:中国:3:31:1508645640351
+1525538 [main] INFO TC_Jpmovie.class - ip success  host:138.0.155.195:8080:中国:3:31:1508645640351
+1594595 [main] INFO TC_Jpmovie.class - ip success  host:13.228.212.61:8888:中国:3:31:1508645640351
+1749205 [main] INFO TC_Jpmovie.class - ip failed!!  host:223.111.14.236:8088:中国:3:31:1508645640351
+1825639 [main] INFO TC_Jpmovie.class - ip failed!!  host:125.141.200.37:80:中国:3:31:1508645640351
+1901695 [main] INFO TC_Jpmovie.class - ip failed!!  host:123.56.232.207:80:中国:3:31:1508645640351
+1978588 [main] INFO TC_Jpmovie.class - ip failed!!  host:59.110.175.146:80:中国:3:31:1508645640351
+2128106 [main] INFO TC_Jpmovie.class - ip failed!!  host:139.59.173.7:8118:中国:3:31:1508645640351
+2204637 [main] INFO TC_Jpmovie.class - ip failed!!  host:192.3.137.121:1080:中国:3:31:1508645640351
+2354418 [main] INFO TC_Jpmovie.class - ip failed!!  host:183.232.223.10:80:中国:3:31:1508645640351
+2430788 [main] INFO TC_Jpmovie.class - ip failed!!  host:159.203.169.168:8080:中国:3:31:1508645640351
+2506883 [main] INFO TC_Jpmovie.class - ip failed!!  host:218.254.1.14:81:中国:3:31:1508645640351
+2583952 [main] INFO TC_Jpmovie.class - ip failed!!  host:5.2.69.111:1080:中国:3:31:1508645640351
+2654188 [main] INFO TC_Jpmovie.class - ip success  host:47.89.18.87:80:中国:3:31:1508645640351
+2727838 [main] INFO TC_Jpmovie.class - ip success  host:138.59.176.245:8080:中国:3:31:1508645640351
+2808968 [main] INFO TC_Jpmovie.class - ip failed!!  host:46.101.50.17:8118:中国:3:31:1508645640351
+2885520 [main] INFO TC_Jpmovie.class - ip failed!!  host:163.172.129.145:8118:中国:3:31:1508645640351
+2961738 [main] INFO TC_Jpmovie.class - ip failed!!  host:46.101.27.218:8118:中国:3:31:1508645640351
+3039335 [main] INFO TC_Jpmovie.class - ip failed!!  host:188.165.151.150:80:中国:3:31:1508645640351
+3115375 [main] INFO TC_Jpmovie.class - ip failed!!  host:46.105.132.60:8118:中国:3:31:1508645640351
+3266100 [main] INFO TC_Jpmovie.class - ip failed!!  host:95.174.211.212:1080:中国:3:47:1508648488349
+3371982 [main] INFO TC_Jpmovie.class - ip failed!!  host:72.12.204.31:8080:中国:3:47:1508648488349
+3454051 [main] INFO TC_Jpmovie.class - ip failed!!  host:60.205.230.187:1080:中国:3:47:1508648488349
+3605612 [main] INFO TC_Jpmovie.class - ip failed!!  host:138.68.149.199:8118:中国:3:47:1508648488349
+3682036 [main] INFO TC_Jpmovie.class - ip failed!!  host:125.141.200.52:80:中国:3:47:1508648488349
+3758131 [main] INFO TC_Jpmovie.class - ip failed!!  host:223.111.14.236:8088:中国:3:47:1508648488349
+3908042 [main] INFO TC_Jpmovie.class - ip failed!!  host:159.203.169.168:8080:中国:3:47:1508648488349
+3984419 [main] INFO TC_Jpmovie.class - ip failed!!  host:125.141.200.6:80:中国:3:47:1508648488349
+4061836 [main] INFO TC_Jpmovie.class - ip failed!!  host:59.110.175.146:80:中国:3:47:1508648488349
+4211226 [main] INFO TC_Jpmovie.class - ip failed!!  host:60.175.170.242:8889:中国:3:47:1508648488349
+4221449 [main] INFO TC_Jpmovie.class - ip success  host:111.13.2.138:80:中国:3:47:1508648488349
+4302535 [main] INFO TC_Jpmovie.class - ip failed!!  host:183.232.223.10:80:中国:3:47:1508648488349
+4378960 [main] INFO TC_Jpmovie.class - ip failed!!  host:183.2.196.77:8080:中国:3:47:1508648488349
+4455228 [main] INFO TC_Jpmovie.class - ip failed!!  host:91.218.246.96:52463:中国:3:47:1508648488349
+4531556 [main] INFO TC_Jpmovie.class - ip failed!!  host:188.166.172.221:8118:中国:3:47:1508648488349
+4607744 [main] INFO TC_Jpmovie.class - ip failed!!  host:125.141.200.26:80:中国:3:47:1508648488349
+4684109 [main] INFO TC_Jpmovie.class - ip failed!!  host:116.52.41.132:9999:中国:3:47:1508648488349
+4767687 [main] INFO TC_Jpmovie.class - ip failed!!  host:185.89.217.33:50540:中国:3:47:1508648488349
+4843885 [main] INFO TC_Jpmovie.class - ip failed!!  host:103.254.16.21:8080:中国:3:47:1508648488349
+4920123 [main] INFO TC_Jpmovie.class - ip failed!!  host:222.242.171.5:63000:中国:3:47:1508648488349
+4996339 [main] INFO TC_Jpmovie.class - ip failed!!  host:121.12.13.83:61234:中国:3:47:1508648488349
+5223185 [main] INFO TC_Jpmovie.class - ip failed!!  host:119.46.91.93:80:中国:3:47:1508648488349
+5318351 [main] INFO TC_Jpmovie.class - ip success  host:218.50.2.102:8080:中国:3:47:1508648488349
+5399784 [main] INFO TC_Jpmovie.class - ip failed!!  host:218.202.4.38:80:中国:3:47:1508648488349
+5475926 [main] INFO TC_Jpmovie.class - ip failed!!  host:46.101.56.126:8118:中国:3:47:1508648488349
+5552791 [main] ERROR TC_Jpmovie.class - ~~~~~~~~~~~~~~ find Element:精品电影 is failed ~~~~~~~~~~~~
+5552792 [main] INFO TC_Jpmovie.class - Exception
+org.openqa.selenium.TimeoutException: timeout: cannot determine loading status
+from timeout: Timed out receiving message from renderer: -0.033
+  (Session info: chrome=62.0.3202.62)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 70.04 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'GLASH', ip: '192.168.2.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=C:\Users\dell\AppData\Local\Temp\scoped_dir13464_2264}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.62, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: b9689407a187603b485709d64f356b12
+*** Element info: {Using=xpath, value=//*[contains(.,'精品电影')]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:388)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:504)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:356)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:351)
+	at com.pub.wtd.common.BaseAction.isTextExist(BaseAction.java:183)
+	at jpmovie.TC_Jpmovie.start(TC_Jpmovie.java:38)
+	at jpmovie.TC_Jpmovie.execute(TC_Jpmovie.java:29)
+	at com.pub.wtd.common.Engine.runCommonCases(Engine.java:413)
+	at com.pub.wtd.common.Engine.<init>(Engine.java:160)
+	at com.pub.wtd.common.Engine.<init>(Engine.java:62)
+	at com.pub.wtd.common.Main.runCase(Main.java:51)
+	at com.pub.wtd.common.Main.main(Main.java:34)
+5552798 [main] INFO TC_Jpmovie.class - ip failed!!  host:120.7.232.102:1080:中国:3:47:1508648488349
+5633688 [main] INFO TC_Jpmovie.class - ip failed!!  host:188.113.190.27:80:中国:3:47:1508648488349
+5783239 [main] INFO TC_Jpmovie.class - ip failed!!  host:46.101.50.17:8118:中国:3:47:1508648488349
+5865190 [main] INFO TC_Jpmovie.class - ip failed!!  host:180.118.243.49:61234:中国:3:47:1508648488349
+5976411 [main] INFO TC_Jpmovie.class - ip failed!!  host:92.38.47.226:80:中国:3:47:1508648488349
+6054910 [main] INFO TC_Jpmovie.class - ip failed!!  host:52.44.16.168:4000:中国:3:47:1508648488349
+6131263 [main] INFO TC_Jpmovie.class - ip failed!!  host:162.243.108.141:8080:中国:3:47:1508648488349
+6208802 [main] INFO TC_Jpmovie.class - ip failed!!  host:212.237.7.84:8080:中国:3:47:1508648488349
+6285114 [main] INFO TC_Jpmovie.class - ip failed!!  host:209.198.197.165:80:中国:3:253:1508651280687
+6361129 [main] INFO TC_Jpmovie.class - ip failed!!  host:188.166.144.170:8118:中国:3:253:1508651280687
+6438553 [main] INFO TC_Jpmovie.class - ip failed!!  host:194.116.198.212:3128:中国:3:253:1508651280687
+6588120 [main] INFO TC_Jpmovie.class - ip failed!!  host:123.56.232.207:80:中国:3:253:1508651280687
+6664159 [main] INFO TC_Jpmovie.class - ip failed!!  host:210.38.1.132:8080:中国:3:253:1508651280687
+6960757 [main] INFO TC_Jpmovie.class - ip failed!!  host:103.254.16.21:8080:中国:3:253:1508651280687
+7110419 [main] INFO TC_Jpmovie.class - ip failed!!  host:188.166.172.221:8118:中国:3:253:1508651280687
+7333732 [main] INFO TC_Jpmovie.class - ip failed!!  host:222.242.171.5:63000:中国:3:253:1508651280687
+7422204 [main] INFO TC_Jpmovie.class - ip success  host:218.50.2.102:8080:中国:3:253:1508651280687
+7430105 [main] INFO TC_Jpmovie.class - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+7430121 [main] INFO TC_Jpmovie.class - ################## Finish to Execute Case: 【 TC_Jpmovie~jpmovie~common 】####################
+7430121 [main] INFO TC_Jpmovie.class - #################### Test Result is : 【 pass 】####################
+7430121 [main] INFO TC_Jpmovie.class - ################## The Test Description is : 【  】####################
+7430121 [main] INFO TC_Jpmovie.class - ######################################  WTD Finished ######################################
+7430121 [main] INFO TC_Jpmovie.class - ###########################################################################################
+7430121 [main] INFO TC_Jpmovie.class - ###########################################################################################
+7430121 [main] INFO TC_Jpmovie.class - ###########################################################################################
