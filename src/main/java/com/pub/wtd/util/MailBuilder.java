@@ -41,6 +41,8 @@ public class MailBuilder {
 
 	private String content = "";
 
+	private String proxy="";
+
 	/**
 	 * generate the resutl.html file
 	 * 
@@ -126,12 +128,16 @@ public class MailBuilder {
 		this.receptions = receptions;
 	}
 
+	public void setProxy(String proxy){
+		this.proxy = proxy;
+	}
 	/**
 	 * send the mail
 	 */
 	public void doSendMail() {
 		mail.setFrom(from);
 		mail.setReceptions(receptions);
+		mail.setProxy(proxy);
 		mail.setSubject("Automation Test Report");
 		mail.setContent(content);
 		mail.doSend();

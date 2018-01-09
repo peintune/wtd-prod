@@ -61,7 +61,7 @@ public class TC_BaiDuSearch extends BaseCase {
 
 
 	public void testSearch(){
-		sendKeysById("kw","snappydata.top");
+		sendKeysById("kw","www.snappydata.top");
 		clickById("su");
 		if(isTextExist("snappydata")){
 			setPointResult("测试搜索","测试搜索功能","pass","NULL");

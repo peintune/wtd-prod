@@ -42,10 +42,16 @@ public class Mail {
 
 	private String from = "";// the mail from which mail
 
+	private String proxy ="";
+
 	public void setHost(String host) {
 
 		this.host = host;
 
+	}
+
+	public void setProxy(String proxy){
+		this.proxy = proxy;
 	}
 
 	public void setAccount(String user, String password) {
@@ -72,6 +78,16 @@ public class Mail {
 
 		props.put("mail.smtp.auth", "true");
 
+		if(!proxy.isEmpty() && !proxy.equals("") ){
+			if(!proxy.contains(":")){
+
+			}else{
+				String[] proxys = proxy.split(":");
+				props.setProperty("proxySet", "true");
+				props.setProperty("socksProxyHost", proxys[0].trim());
+				props.setProperty("socksProxyPort", proxys[1].trim());
+			}
+		}
 		try {
 
 			Session mailSession = Session.getDefaultInstance(props);
@@ -86,8 +102,7 @@ public class Mail {
 						to));
 
 			}
-			message.addRecipient(Message.RecipientType.CC, new InternetAddress(
-					"AutoTest_QA@163.com"));
+			//message.addRecipient(Message.RecipientType.CC, new InternetAddress("AutoTest_QA@163.com"));
 			
 			message.setSubject(subject);
 	

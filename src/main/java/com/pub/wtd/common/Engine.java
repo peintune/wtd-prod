@@ -193,7 +193,7 @@ public class Engine {
 				}
 			}
 
-			tearDown(logFolder, webDriver, initialEnv.getMailReceptors());// clear
+			tearDown(logFolder, webDriver, initialEnv.getMailReceptors(),initialEnv.getProxy());// clear
 																			// and
 																			// tear
 																			// down
@@ -356,7 +356,6 @@ public class Engine {
 				try {
 
 						cl = javaCompilerTool.getClassLoader().loadClass(singleCase[1]+"."+singleCase[0]);
-
 				}catch (Exception e2){
 					e2.printStackTrace();
 				}
@@ -403,7 +402,7 @@ public class Engine {
 																		// for
 																		// each
 																		// cases
-		new HomePagetestWithOutLogIn(sessionData).goToPage();
+		//new HomePagetestWithOutLogIn(sessionData).goToPage();
 
 		try {
 
@@ -653,13 +652,13 @@ public class Engine {
 	 * merge result.xml and call send test report
 	 */
 	private void tearDown(String logFolder, WebDriver webDrvier,
-			List<String> receptions) {
+			List<String> receptions,String proxy) {
 		try {
 			webDrvier.close();
 			webDrvier.quit();
 		}catch (Exception ignore){}
 		mergeAllResult(logFolder);
-		sendReport(logFolder + "/allResult.xml", receptions);
+		sendReport(logFolder + "/allResult.xml", receptions ,proxy);
 		try {
 			Thread.sleep(2000);
 		} catch (InterruptedException e) {
@@ -684,10 +683,11 @@ public class Engine {
 	/**
 	 * send the test report
 	 */
-	private void sendReport(String allResultXml, List<String> receptions) {
+	private void sendReport(String allResultXml, List<String> receptions,String proxy) {
 		MailBuilder sm = new MailBuilder();
 
 		sm.setReceptions(receptions);
+		sm.setProxy(proxy);
 
 		InputStreamReader isr;
 		try {

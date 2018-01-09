@@ -85,6 +85,18 @@ public class InitialEnvironment {
 
 	}
 
+	public String getProxy(){
+		String proxy = "";
+		try {
+			Element urlElement = (Element) doc
+					.selectSingleNode("//Proxy");
+			proxy = urlElement.attributeValue("value");
+		}catch (Exception ignore){
+
+		}
+		return proxy;
+	}
+
 	/**
 	 * get WebDrivers
 	 */
@@ -125,9 +137,14 @@ public class InitialEnvironment {
 	 */
 	public void setHostNameToSession(Document doc) {
 
-		Element urlElement = (Element) doc
-				.selectSingleNode("//host-url/url");
-		String hostName = urlElement.attributeValue("name");
+		String hostName = "";
+		try {
+			Element urlElement = (Element) doc
+					.selectSingleNode("//host-url/url");
+			hostName = urlElement.attributeValue("name");
+		}catch (Exception ignore){
+
+		}
 		sessionData.setHostName(hostName);
 	}
 	

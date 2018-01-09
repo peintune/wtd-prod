@@ -16,7 +16,7 @@
 					<xsl:value-of select="/TestResult/TestCase[1]/@webBrowser" />
 				</p>
 				<br />
-				<p align="center" style="font-family:'Arial';font-size:22px;font-weight:bold">Total pass rate</p>
+				<p align="center" style="font-family:'Arial';font-size:22px;font-weight:bold">总通过率</p>
 				<table border="1" align="center">
 					<tr bgcolor="#666666">
 						<th align="center" width="200">
@@ -69,7 +69,7 @@
 				<xsl:if test="count(//TestCase[@caseType='common']) &gt; 0">
 					<br />
 					<br />
-					<p align="left" style="font-family:'Arial';font-size:19px;font-weight:bold">♥ Common case pass rate</p>
+					<p align="left" style="font-family:'Arial';font-size:19px;font-weight:bold">♥ 网页自动化case通过率</p>
 					<table border="1" align="left">
 						<tr bgcolor="#666666">
 							<th align="center" width="200">
@@ -122,7 +122,7 @@
 					<br />
 					<xsl:if
 						test="count(//TestCase[@caseType='common' and @result!='pass']) &gt; 0">
-						<p align="left" style="font-family:'Arial';font-size:16px;font-weight:bold">Common case Failed Detail</p>
+						<p align="left" style="font-family:'Arial';font-size:16px;font-weight:bold">网页自动化case失败详细</p>
 						<br />
 						<table border="1" align="left">
 							<tr bgcolor="#666666">
@@ -247,7 +247,7 @@
 
 				<xsl:if test="count(//TestCase[@caseType='interface']) &gt; 0">
 
-					<p align="left" style="font-family:'Arial';font-size:19px;font-weight:bold">♥ Interface case pass rate</p>
+					<p align="left" style="font-family:'Arial';font-size:19px;font-weight:bold">♥ 接口测试case通过率</p>
 					<table border="1" align="left">
 						<tr bgcolor="#666666">
 							<th align="center" width="200">
@@ -301,7 +301,7 @@
 					<br />
 					<xsl:if
 						test="count(//TestCase[@caseType='interface' and @result!='pass']) &gt; 0">
-						<p align="left" style="font-family:'Arial';font-size:16px;font-weight:bold">Interface case Failed Detail</p>
+						<p align="left" style="font-family:'Arial';font-size:16px;font-weight:bold">接口测试case失败详细</p>
 						<br />
 
 						<table border="1" align="left">
@@ -419,7 +419,7 @@
 				<br />
 				<br />
 				<p align="center"
-					style="font-family:'Times New Roman';font-size:19px;font-weight:bold">All cases results</p>
+					style="font-family:'Times New Roman';font-size:19px;font-weight:bold">所有case结果汇总</p>
 				<table border="0" align="center">
 					<tr bgcolor="#666666">
 						<th align="center" width="150" bgcolor="#FFA042">

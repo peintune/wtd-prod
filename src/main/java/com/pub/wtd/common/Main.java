@@ -25,13 +25,14 @@ public class Main implements Runnable{
 	static InitialEnvironment initialEnv;
 	static List<String> caseList;
 	static HashMap<String, String> configMap;
+	private static URLClassLoader classloader = (URLClassLoader) ClassLoader.getSystemClassLoader();
+
 	public static void main(String[] args) {
 		initialEnv = new InitialEnvironment();
 		configMap=initialEnv.getWebDrivers();//read all kinds of webdriver from config file
 		caseList = new FindCaseNames().findCaseList();//read cases from config file
 	//	webDriverList = new InitWebDriver(configMap).getWebDriverList();//initial all kinds of webdriver 
-		 
-		runCase(null);
+		runCase(classloader);
 	}
 
 	public static void start(URLClassLoader urlClassLoader){
@@ -61,6 +62,6 @@ public class Main implements Runnable{
 		initialEnv = new InitialEnvironment();
 		configMap=initialEnv.getWebDrivers();//read all kinds of webdriver from config file
 		caseList = new FindCaseNames().findCaseList();//read cases from config file
-		runCase(null);
+		runCase(classloader);
 	}
 }
