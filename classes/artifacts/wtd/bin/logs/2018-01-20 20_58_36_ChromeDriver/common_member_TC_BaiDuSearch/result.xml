@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestResult><TestCase name="TC_BaiDuSearch" caseModule="member" caseType="common" description="" result="block" errorInfo="编译case出错，请检查case的代码的语法错误,case 路径：F:\work\projects\ideaworkspace\webautomationtestdriver\classes\artifacts\wtd\wtdwebuicases\member\TC_BaiDuSearch.java" logUrl="\\192.168.2.104\GLASH\2018-01-20 20_58_36_ChromeDriver\common_member_TC_BaiDuSearch" webBrowser="ChromeDriver"/></TestResult>

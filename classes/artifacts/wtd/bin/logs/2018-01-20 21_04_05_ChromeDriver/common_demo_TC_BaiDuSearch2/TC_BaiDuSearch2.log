@@ -1,0 +1,15 @@
+1929 [main] INFO TC_BaiDuSearch2.class - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 fail 】  {can not go to home page}
+1938 [main] INFO TC_BaiDuSearch2.class - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2276 [main] INFO TC_BaiDuSearch2.class - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\classes\artifacts\wtd\bin\logs\2018-01-20 21_04_05_ChromeDriver\common_demo_TC_BaiDuSearch2\2018-01-20 21_04_07_890.jpg ~~~~~~~~~~~~
+2292 [main] INFO TC_BaiDuSearch2.class - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+4946 [main] INFO TC_BaiDuSearch2.class - ~~~~~~ Test Point 【 测试搜索 】  : (测试搜索功能)  is 【 pass 】 
+4949 [main] INFO TC_BaiDuSearch2.class - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+5289 [main] INFO TC_BaiDuSearch2.class - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\classes\artifacts\wtd\bin\logs\2018-01-20 21_04_05_ChromeDriver\common_demo_TC_BaiDuSearch2\2018-01-20 21_04_10_902.jpg ~~~~~~~~~~~~
+5291 [main] INFO TC_BaiDuSearch2.class - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+5297 [main] INFO TC_BaiDuSearch2.class - ################## Finish to Execute Case: 【 TC_BaiDuSearch2~demo~common 】####################
+5297 [main] INFO TC_BaiDuSearch2.class - #################### Test Result is : 【 fail 】####################
+5297 [main] INFO TC_BaiDuSearch2.class - ################## The Test Description is : 【 测试百度搜索功能 】####################
+5297 [main] INFO TC_BaiDuSearch2.class - ######################################  WTD Finished ######################################
+5298 [main] INFO TC_BaiDuSearch2.class - ###########################################################################################
+5298 [main] INFO TC_BaiDuSearch2.class - ###########################################################################################
+5298 [main] INFO TC_BaiDuSearch2.class - ###########################################################################################

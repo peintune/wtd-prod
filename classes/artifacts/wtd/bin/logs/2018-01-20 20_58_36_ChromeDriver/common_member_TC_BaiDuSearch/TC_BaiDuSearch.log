@@ -1,0 +1,11 @@
+8 [main] ERROR TC_BaiDuSearch.class - 编译case出错，请检查case的代码的语法错误，case 路径：F:\work\projects\ideaworkspace\webautomationtestdriver\classes\artifacts\wtd\wtdwebuicases\member\TC_BaiDuSearch.java
+9 [main] INFO TC_BaiDuSearch.class - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+492 [main] INFO TC_BaiDuSearch.class - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\classes\artifacts\wtd\bin\logs\2018-01-20 20_58_36_ChromeDriver\common_member_TC_BaiDuSearch\2018-01-20 20_58_36_512.jpg ~~~~~~~~~~~~
+505 [main] INFO TC_BaiDuSearch.class - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+512 [main] INFO TC_BaiDuSearch.class - ################## Finish to Execute Case: 【 TC_BaiDuSearch~member~common 】####################
+512 [main] INFO TC_BaiDuSearch.class - #################### Test Result is : 【 block 】####################
+512 [main] INFO TC_BaiDuSearch.class - ################## The Test Description is : 【 Default Description 】####################
+512 [main] INFO TC_BaiDuSearch.class - ######################################  WTD Finished ######################################
+512 [main] INFO TC_BaiDuSearch.class - ###########################################################################################
+512 [main] INFO TC_BaiDuSearch.class - ###########################################################################################
+512 [main] INFO TC_BaiDuSearch.class - ###########################################################################################

@@ -1,11 +1,61 @@
-###WTD Case 开发手册
-		
-作者 何坤<158109016@qq.com>	V2.0	2017/3/12  http://snappydata.top
+作者 何坤<3163172384@qq.com>, qq群：524212543 ， 个人博客：http://blog.jpmovie.cn
 
-##### 框架目录结构
+### 版本更新
+
+v2.2    2018/01/20 
+- 更新说明文件和democase
+
+v2.1    2018/01/09 
+- 更新最新chromewebdriver解决比较新的chrome打不开的情况
+
+V2.0	2017/3/12
+- 第一个版本
+--------------
+
+### 介绍
+wtd自动化测试框架支持以下功能：
+- 接口自动化测试，只需简单的一个接口的xml文件即可
+- 网页UI自动化测试，编写一个简单的java文件放在wtd框架中即可执行
+- 测试结果报告保存，测试结果和错误原因及网页截图文件会保存在本地
+- 测试结果汇总并自动以邮件形式发送给相关测试人员
+- 定时自动执行选定的测试case
+
+wtd是基于selenium开发的，框架提供了很多通用的方法和接口，当然，开发的网页自动化case也可以直接使用webdriver的所有方法。接口测试case非常简单，只需要新建一个xml文件，里面替换掉接口地址，参数，期望返回结果等就可以了。对于需要登录的接口case也是支持的。
+
+### 快速开始
+##### 1. 环境准备并运行demo
+- 下载wtd测试框架: git clone https://github.com/peintune/wtd.git 或者直接download
+- 本地安装好JDK
+- 本地安装[IDEA](https://www.jetbrains.com/idea/)开发环境。
+- 打开IDEA，导入wtd整个项目
+- 在IDEA开发环境中，直接运行 RunCaseTest类
+###### 1.2 运行自己开发好的case
+- 开发环境中运行：在IDEA开发环境中，更改caselist.cfg.xml文件，直接运行 RunCaseTest类
+- 正式部署环境中运行，直接复制开发好的接口case(TC_xxx.xml)或者UI自动化case(TC_xxx.java)到正式测试环境中的对应目录中。更改caselist.cfg.xml文件，然后双击wtd.bat脚本启动。
+
+以上，所有开发环境准备完成，可以开始写case了。
+
+##### 2. 框架目录结构
+- 所有的接口测试case都在wtdapicases/interfaces目录下，你可以根据需要自己在这个目录下建模块，比如member.注意public目录不存放case,但是可以保持公共接口。比如有50个接口case都需要依赖登录接口后才能测试，那么可以写一个登录接口放到public目录下，然后在50个case里面都调一下这个登录的接口。
+- 所有的网页自动化case都在wtdwebuicases目录下。你可以根据需要自己在这个目录下建模块，比如member。这些case都是java文件。在部署到正式测试环境时不需要打包成jar或者编译成.class文件，只需要将源java文件放到对应正式测试环境，wtd会自动在执行的时候编译这个case的java文件的。
+- wtd的配置文件是wtd.cfg.xml,里面可以配置UI自动化要启动的浏览器类型，比如chrome,firefox,safari。还有相关测试人员的邮件地址。
+- 需要跑的case的列表信息在caselist.cfg.xml中。
+- 在IDEA开发环境中，直接运行 RunCaseTest类即可，在正式测试环境中运行  wtd.bat脚本。
 ![Alt text](./bin/doc/wtd.png)
 
-####文档目录
+##### 3. 程序运行界面
+3.1 正式测试环境程序运行界面
+![Alt text](./bin/doc/run2.png)
+3.2 IDEA开发环境程序运行界面
+![Alt text](./bin/doc/debugrun.png)
+
+##### 4.生成的log文件及截图
+![Alt text](./bin/doc/log.png)
+
+##### 5.自动生成的邮件报告
+![Alt text](./bin/doc/report.png)
+
+##### 6. 文档目录
 - Case需存放的目录：	
 - Case的形式：	
 - Case的命名规范：
@@ -15,18 +65,18 @@
 - 如何部署环境：
 - 一个Case实例：	
 
-##### Case需存放的目录：
--	在WTD项目中，将新功能性case新建在wtdwebuicases包中，并且此包要确定是一个sources root目录，默认导入的框架中的此目录已经是sources root目录。
+##### 7. Case需存放的目录：
+- 在WTD项目中，将新功能性case新建在wtdwebuicases包中，并且此包要确定是一个sources root目录，默认导入的框架中的此目录已经是sources root目录。
 - 将接口性case放入wtdapicases目录中。
 
-##### Case的形式：
+##### 8. Case的形式：
 - 功能性Case的实体是一个java文件。
--	接口性Case的实体是一个xml文件。
+- 接口性Case的实体是一个xml文件。
 
-##### Case的命名规范：
+##### 9. Case的命名规范：
 - Case开头已Tc_开头，如：Tc_LogIn。Tc是TestCase的缩写。
 
-##### Case的具体实现步骤：
+##### 10. Case的具体实现步骤：
 -	ui 自动化 Case:
 1.	在wtdwebuicases包中建立子package比如member,然后建立对应的case比如TC_BaiDuSearch.java。
 2.	新建case类必须继承BaseCase类：public class TC_BaiDuSearch extends BaseCase{}
@@ -55,7 +105,7 @@
   ```
 
 
-##### UI 自动化测试case可使用的变量及方法：
+##### 11. UI 自动化测试case可使用的变量及方法：
 -	SessionData 类：
 
 | 变量名      | 描述         |
@@ -96,19 +146,19 @@
 
 >	更多方法可以参考com.pub.wtd.common.BaseCase 类和webdiver对象中的方法。或者登陆 [小木屋](http://snappydata.top)
 
-##### 如何调试运行case：
+##### 12. 如何调试运行case：
 1.	调试运行case：
 2.	在Intellij IDEA 中打开整个WTD项目。
 3.	编写接口测试case和ui 自动化测试case，具体可以参考项目中的demo。
 4.	更改config/conf/wtd.cfg.xml中测试的hostname，测试浏览器，测试人员邮箱的信息。
 5.	在conig/caselist.cfg.xml中添加要调试运行的case。
 6.	运行或者调试运行runcasestest 包中的RunCaseTest类。 
-##### 如何部署环境：
+##### 13. 如何部署环境：
 1.	更改config/conf/wtd.cfg.xml中测试的hostname，测试浏览器，测试人员邮箱的信息。
 2.	在conig/caselist.cfg.xml中添加要测试的case。
 3.	双击运行wtd.bat或者通过任意windows shell环境运行wtd.bat(推荐)。
 
-##### 一个接口 Case实例：
+##### 14. 一个接口 Case实例：
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <case description="change the userlogin passwd" type="post">
@@ -127,14 +177,14 @@
 	</test>	
 </case>                  
 ```
-##### 一个UI自动化 Case实例：
+##### 15. 一个UI自动化 Case实例：
 
 ```java
 public class TC_BaiDuSearch extends BaseCase {
    /**
     * 每一个ui自动化case都必须实现execute（）方法，此方法是此case的入口。
     * 编写case时可以参考以下步骤：
-    *HomePagetest
+    * 1，打开首页或者一个链接或者自己定义的一个页面:webDriver.get(String),new HomePage(sessionData).goToPage(),
     * 2，设置这个case的描述信息:setDescription(String)
     * 3，执行某些操作。
     * 4，检查预期值或者页面元素并设置这个测试点测试通过或者测试失败:setPointResult("", "", "pass", "NULL");
@@ -152,7 +202,7 @@ public class TC_BaiDuSearch extends BaseCase {
     * 更多更新信息请到 snappydata.top
     */
    public void execute() {
-      HomePagetest
+      //new HomePage(sessionData).goToPage();// 自定义一个页面，所有case都可以共享这个页面,直接在case中打开这个页面。
 
       webDriver.get("http://www.baidu.com");//利用webdriver执行打开页面
 
@@ -186,4 +236,4 @@ public class TC_BaiDuSearch extends BaseCase {
    }
 }
 ```
-
+精品电影网：http://www.jpmovie.cn
