@@ -9,15 +9,14 @@
 package com.pub.wtd.util;
 
 import java.io.File;
+import java.security.Security;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Properties;
 
-import javax.mail.Message;
-import javax.mail.Session;
-import javax.mail.Transport;
+import javax.mail.*;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
@@ -70,7 +69,55 @@ public class Mail {
 	 * send the email
 	 * 
 	 */
-	public void doSend() {
+
+
+
+	public void doSend(){
+		Properties props = System.getProperties();
+		Security.addProvider(new com.sun.net.ssl.internal.ssl.Provider());
+		final String SSL_FACTORY = "javax.net.ssl.SSLSocketFactory";
+		if(!proxy.isEmpty() && !proxy.equals("") ){
+			if(!proxy.contains(":")){
+
+			}else{
+				String[] proxys = proxy.split(":");
+				props.setProperty("proxySet","true");
+				props.setProperty("socksProxyHost",proxys[0].trim());
+				props.setProperty("socksProxyPort",proxys[1].trim());
+			}
+		}
+
+		props.setProperty("mail.smtp.host", host);
+		props.setProperty("mail.smtp.socketFactory.class", SSL_FACTORY);
+		props.setProperty("mail.smtp.socketFactory.fallback", "false");
+		props.put("mail.smtp.auth", "true");
+		props.put("mail.debug", "true");
+		props.put("mail.store.protocol", "pop3");
+		props.put("mail.transport.protocol", "smtp");
+		Session session = Session.getDefaultInstance(props,
+				new Authenticator(){
+					protected PasswordAuthentication getPasswordAuthentication() {
+						return new PasswordAuthentication("AutoTest_QA@163.com", "1688888");
+					}});
+
+		// -- Create a new message --
+		Message msg = new MimeMessage(session);
+
+		// -- Set the FROM and TO fields --
+		try {
+			msg.setFrom(new InternetAddress(from));
+			msg.setRecipients(Message.RecipientType.TO,
+					InternetAddress.parse("158109016@qq.com", false));
+			msg.setSubject("Hello");
+			msg.setText("How are you");
+			msg.setSentDate(new Date());
+			Transport.send(msg);
+			System.out.println("success");
+		}catch ( Exception d){
+			d.printStackTrace();
+		}
+	}
+	public void doSend2() {
 
 		Properties props = new Properties();
 
@@ -83,9 +130,9 @@ public class Mail {
 
 			}else{
 				String[] proxys = proxy.split(":");
-				props.setProperty("proxySet", "true");
-				props.setProperty("socksProxyHost", proxys[0].trim());
-				props.setProperty("socksProxyPort", proxys[1].trim());
+				props.put("proxySet", "true");
+				props.put("proxyHost", proxys[0].trim());
+				props.setProperty("proxyPort", proxys[1].trim());
 			}
 		}
 		try {
