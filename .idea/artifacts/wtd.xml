@@ -26,6 +26,7 @@
         <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources/runcasetest" />
       </element>
       <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/wtd.iml" />
+      <element id="file-copy" path="$PROJECT_DIR$/README.md" />
     </root>
   </artifact>
 </component>

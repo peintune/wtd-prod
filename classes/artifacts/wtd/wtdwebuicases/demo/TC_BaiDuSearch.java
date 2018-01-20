@@ -63,7 +63,7 @@ public class TC_BaiDuSearch extends BaseCase {
 	public void testSearch(){
 		sendKeysById("kw","blog.jpmovie.cn");
 		clickById("su");
-		if(isTextExist("jpmovie")){
+		if(isTextExist("小木屋 | 免费,自由,开源,实用软件工具")){
 			setPointResult("测试搜索","测试搜索功能","pass","NULL");
 		}else{
 			setPointResult("测试搜索","测试搜索功能","fail","百度搜索测试失败");

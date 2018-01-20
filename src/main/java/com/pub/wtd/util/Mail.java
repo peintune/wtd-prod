@@ -37,7 +37,7 @@ public class Mail {
 
 	private String content = "";// the mail main content
 
-	private String subject="Automation Test Report";// the main subject
+	private String mailSubject="Automation Test Report";// the main subject
 
 	private String from = "";// the mail from which mail
 
@@ -72,9 +72,9 @@ public class Mail {
 
 
 
-	public void doSend(){
+	public void doSend2(){
 		Properties props = System.getProperties();
-		Security.addProvider(new com.sun.net.ssl.internal.ssl.Provider());
+		//Security.addProvider(new com.sun.net.ssl.internal.ssl.Provider());
 		final String SSL_FACTORY = "javax.net.ssl.SSLSocketFactory";
 		if(!proxy.isEmpty() && !proxy.equals("") ){
 			if(!proxy.contains(":")){
@@ -88,7 +88,7 @@ public class Mail {
 		}
 
 		props.setProperty("mail.smtp.host", host);
-		props.setProperty("mail.smtp.socketFactory.class", SSL_FACTORY);
+		//props.setProperty("mail.smtp.socketFactory.class", SSL_FACTORY);
 		props.setProperty("mail.smtp.socketFactory.fallback", "false");
 		props.put("mail.smtp.auth", "true");
 		props.put("mail.debug", "true");
@@ -117,7 +117,7 @@ public class Mail {
 			d.printStackTrace();
 		}
 	}
-	public void doSend2() {
+	public void doSend() {
 
 		Properties props = new Properties();
 
@@ -151,10 +151,13 @@ public class Mail {
 			}
 			//message.addRecipient(Message.RecipientType.CC, new InternetAddress("AutoTest_QA@163.com"));
 			
-			message.setSubject(subject);
-	
+			message.setSubject(mailSubject);
+
 
 			message.setContent(content, "text/html;charset=UTF-8");
+
+			//message.setContent("hello", "text/html;charset=UTF-8");
+
 
 			message.setSentDate(new Date());
 
@@ -188,8 +191,8 @@ public class Mail {
 		this.content = content;
 	}
 
-	public void setSubject(String subject) {
-		this.subject = subject;
+	public void setMailSubject(String mailSubject) {
+		this.mailSubject = mailSubject;
 	}
 
 	// attachment class contains File and fileName

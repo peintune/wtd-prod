@@ -1,0 +1,15 @@
+2769 [main] INFO root - ¡¾Test 1¡¿          http://blog.jpmovie.cn/?page_id=67
+2770 [main] INFO root - ¡¾Response 1¡¿     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2770 [main] INFO root - ¡¾expect words¡¿     ¹ØÓÚÐ¡Ä¾ÎÝ
+2770 [main] INFO root - ¡¾Result 1¡¿       fail
+2770 [main] INFO root - ............
+2777 [main] INFO root - ################## Finish to Execute Case: ¡¾ TC_XiaomuwuAbout~demo~interface ¡¿####################
+2777 [main] INFO root - #################### Test Result is : ¡¾ fail ¡¿####################
+2777 [main] INFO root - ################## The Test Description is : ¡¾  ¡¿####################
+2778 [main] INFO root - ######################################  WTD Finished ######################################
+2778 [main] INFO root - ###########################################################################################
+2778 [main] INFO root - ###########################################################################################
+2778 [main] INFO root - ###########################################################################################

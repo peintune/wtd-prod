@@ -1,0 +1,15 @@
+2378 [main] INFO root - 【Test 1】          http://blog.jpmovie.cn/?page_id=67
+2378 [main] INFO root - 【Response 1】     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2378 [main] INFO root - 【expect words】     关于小木屋
+2378 [main] INFO root - 【Result 1】       pass
+2378 [main] INFO root - ............
+2386 [main] INFO root - ################## Finish to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2386 [main] INFO root - #################### Test Result is : 【 pass 】####################
+2388 [main] INFO root - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2388 [main] INFO root - ######################################  WTD Finished ######################################
+2388 [main] INFO root - ###########################################################################################
+2389 [main] INFO root - ###########################################################################################
+2389 [main] INFO root - ###########################################################################################

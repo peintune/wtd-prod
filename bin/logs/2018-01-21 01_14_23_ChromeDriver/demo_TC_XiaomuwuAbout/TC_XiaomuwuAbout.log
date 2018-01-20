@@ -1,0 +1,15 @@
+1805 [main] INFO root - 【Test 1】          http://blog.jpmovie.cn/?page_id=67
+1806 [main] INFO root - 【Response 1】     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+1806 [main] INFO root - 【expect words】     关于小木屋
+1806 [main] INFO root - 【Result 1】       pass
+1806 [main] INFO root - ............
+1814 [main] INFO root - ################## Finish to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+1814 [main] INFO root - #################### Test Result is : 【 pass 】####################
+1814 [main] INFO root - ################## The Test Description is : 【 测试百度搜索功能 】####################
+1816 [main] INFO root - ######################################  WTD Finished ######################################
+1816 [main] INFO root - ###########################################################################################
+1817 [main] INFO root - ###########################################################################################
+1817 [main] INFO root - ###########################################################################################

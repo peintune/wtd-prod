@@ -18,6 +18,7 @@
 
 	<!--报告收件人可以设置多个，只需增加 <user email="xxx.xxx"></user>即可 -->
 	<MailReceptor>
-		<user email="158109016@qq.com"></user>
+		<user email="3163172384@qq.com"></user>
 	</MailReceptor>
+	<MailSubject value="自动化测试报告"/>
 </wtd-configuration>

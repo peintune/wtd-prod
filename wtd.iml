@@ -35,7 +35,6 @@
     <orderEntry type="library" name="Maven: xerces:xercesImpl:2.6.2" level="project" />
     <orderEntry type="library" name="Maven: xom:xom:1.0" level="project" />
     <orderEntry type="library" name="Maven: xerces:xmlParserAPIs:2.6.2" level="project" />
-    <orderEntry type="library" name="Maven: com.ibm.icu:icu4j:2.6.1" level="project" />
     <orderEntry type="library" name="Maven: log4j:log4j:1.2.17" level="project" />
     <orderEntry type="library" name="Maven: com.sun.mail:javax.mail:1.5.6" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.0.5" level="project" />
@@ -71,6 +70,34 @@
     <orderEntry type="library" name="Maven: org.eclipse.jetty.websocket:websocket-api:9.2.18.v20160721" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.5.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.4" level="project" />
-    <orderEntry type="library" name="Maven: com.google.gw:gwt-dev:2.3.2-redhat" level="project" />
+    <orderEntry type="library" name="Maven: com.google.gwt:gwt-dev:2.8.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:1.3.9" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm:5.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-util:5.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-tree:5.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-commons:5.0.3" level="project" />
+    <orderEntry type="library" name="Maven: colt:colt:1.2.0" level="project" />
+    <orderEntry type="library" name="Maven: ant:ant:1.6.5" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.2.2" level="project" />
+    <orderEntry type="library" name="Maven: com.ibm.icu:icu4j:50.1.1" level="project" />
+    <orderEntry type="library" name="Maven: tapestry:tapestry:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-webapp:9.2.14.v20151106" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-xml:9.2.14.v20151106" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-servlet:9.2.14.v20151106" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-security:9.2.14.v20151106" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-servlets:9.2.14.v20151106" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-continuation:9.2.14.v20151106" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-http:9.2.14.v20151106" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-annotations:9.2.14.v20151106" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-plus:9.2.14.v20151106" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-jndi:9.2.14.v20151106" level="project" />
+    <orderEntry type="library" name="Maven: javax.annotation:javax.annotation-api:1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:apache-jsp:9.2.14.v20151106" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-server:9.2.14.v20151106" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty.toolchain:jetty-schemas:3.1.M0" level="project" />
+    <orderEntry type="library" name="Maven: javax.servlet:javax.servlet-api:3.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.mortbay.jasper:apache-jsp:8.0.9.M3" level="project" />
+    <orderEntry type="library" name="Maven: org.mortbay.jasper:apache-el:8.0.9.M3" level="project" />
   </component>
 </module>

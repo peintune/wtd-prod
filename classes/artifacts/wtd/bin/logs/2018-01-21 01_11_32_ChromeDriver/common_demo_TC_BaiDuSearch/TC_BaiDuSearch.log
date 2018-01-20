@@ -1,0 +1,15 @@
+3012 [main] INFO TC_BaiDuSearch.class - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 fail 】  {can not go to home page}
+3023 [main] INFO TC_BaiDuSearch.class - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+3430 [main] INFO TC_BaiDuSearch.class - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\bin\logs\2018-01-21 01_11_32_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_11_36_74.jpg ~~~~~~~~~~~~
+3444 [main] INFO TC_BaiDuSearch.class - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+5929 [main] INFO TC_BaiDuSearch.class - ~~~~~~ Test Point 【 测试搜索 】  : (测试搜索功能)  is 【 pass 】 
+5933 [main] INFO TC_BaiDuSearch.class - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+6314 [main] INFO TC_BaiDuSearch.class - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\bin\logs\2018-01-21 01_11_32_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_11_38_958.jpg ~~~~~~~~~~~~
+6318 [main] INFO TC_BaiDuSearch.class - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+6326 [main] INFO TC_BaiDuSearch.class - ################## Finish to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+6326 [main] INFO TC_BaiDuSearch.class - #################### Test Result is : 【 fail 】####################
+6326 [main] INFO TC_BaiDuSearch.class - ################## The Test Description is : 【 测试百度搜索功能 】####################
+6326 [main] INFO TC_BaiDuSearch.class - ######################################  WTD Finished ######################################
+6326 [main] INFO TC_BaiDuSearch.class - ###########################################################################################
+6326 [main] INFO TC_BaiDuSearch.class - ###########################################################################################
+6326 [main] INFO TC_BaiDuSearch.class - ###########################################################################################

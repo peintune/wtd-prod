@@ -193,7 +193,7 @@ public class Engine {
 				}
 			}
 
-			tearDown(logFolder, webDriver, initialEnv.getMailReceptors(),initialEnv.getProxy());// clear
+			tearDown(logFolder, webDriver, initialEnv);// clear
 																			// and
 																			// tear
 																			// down
@@ -651,14 +651,13 @@ public class Engine {
 	/**
 	 * merge result.xml and call send test report
 	 */
-	private void tearDown(String logFolder, WebDriver webDrvier,
-			List<String> receptions,String proxy) {
+	private void tearDown(String logFolder, WebDriver webDrvier,InitialEnvironment initialEnv) {
 		try {
 			webDrvier.close();
 			webDrvier.quit();
 		}catch (Exception ignore){}
 		mergeAllResult(logFolder);
-		sendReport(logFolder + "/allResult.xml", receptions ,proxy);
+		sendReport(logFolder + "/allResult.xml", initialEnv.getMailReceptors() ,initialEnv.getProxy(),initialEnv.getMailSubject());
 		try {
 			Thread.sleep(2000);
 		} catch (InterruptedException e) {
@@ -683,11 +682,12 @@ public class Engine {
 	/**
 	 * send the test report
 	 */
-	private void sendReport(String allResultXml, List<String> receptions,String proxy) {
+	private void sendReport(String allResultXml, List<String> receptions,String proxy,String mailSubject) {
 		MailBuilder sm = new MailBuilder();
 
 		sm.setReceptions(receptions);
 		sm.setProxy(proxy);
+		sm.setMailSubject(mailSubject);
 
 		InputStreamReader isr;
 		try {

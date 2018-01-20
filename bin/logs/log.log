@@ -2317,3 +2317,219 @@ Session ID: 8a8d31dfd5db74aa6e7582aa1f1f0534
 2018-01-10 00:20:27,585 INFO [TC_BaiDuSearch.class] - ###########################################################################################
 2018-01-10 00:20:27,585 INFO [TC_BaiDuSearch.class] - ###########################################################################################
 2018-01-10 00:20:27,585 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:07:56,273 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:07:56,273 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:07:56,273 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:08:09,645 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 fail 】  {can not go to home page}
+2018-01-21 01:08:09,658 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:08:10,045 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\bin\logs\2018-01-21 01_07_56_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_08_10_45.jpg ~~~~~~~~~~~~
+2018-01-21 01:08:10,059 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:08:12,448 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 测试搜索 】  : (测试搜索功能)  is 【 pass 】 
+2018-01-21 01:08:12,453 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:08:12,791 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\bin\logs\2018-01-21 01_07_56_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_08_12_790.jpg ~~~~~~~~~~~~
+2018-01-21 01:08:12,794 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:08:12,801 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:08:12,801 INFO [TC_BaiDuSearch.class] - #################### Test Result is : 【 fail 】####################
+2018-01-21 01:08:12,801 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:08:12,801 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-21 01:08:12,801 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:08:12,801 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:08:12,801 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:08:12,801 INFO [root] - ###########################################################################################
+2018-01-21 01:08:12,801 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-21 01:08:12,802 INFO [root] - ################## Start to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:08:21,007 INFO [root] - 【Test 1】          http://blog.jpmovie.cn/?page_id=67
+2018-01-21 01:08:21,008 INFO [root] - 【Response 1】     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-21 01:08:21,012 INFO [root] - 【expect words】     关于小木屋
+2018-01-21 01:08:21,012 INFO [root] - 【Result 1】       pass
+2018-01-21 01:08:21,012 INFO [root] - ............
+2018-01-21 01:08:21,027 INFO [root] - ################## Finish to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:08:21,027 INFO [root] - #################### Test Result is : 【 pass 】####################
+2018-01-21 01:08:21,028 INFO [root] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:08:21,029 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-21 01:08:21,029 INFO [root] - ###########################################################################################
+2018-01-21 01:08:21,029 INFO [root] - ###########################################################################################
+2018-01-21 01:08:21,029 INFO [root] - ###########################################################################################
+2018-01-21 01:10:08,612 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:10:08,612 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:10:08,612 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:10:12,918 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 fail 】  {can not go to home page}
+2018-01-21 01:10:12,927 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:10:13,265 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\bin\logs\2018-01-21 01_10_08_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_10_13_265.jpg ~~~~~~~~~~~~
+2018-01-21 01:10:13,278 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:10:15,620 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 测试搜索 】  : (测试搜索功能)  is 【 pass 】 
+2018-01-21 01:10:15,623 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:10:15,895 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\bin\logs\2018-01-21 01_10_08_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_10_15_894.jpg ~~~~~~~~~~~~
+2018-01-21 01:10:15,898 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:10:15,904 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:10:15,905 INFO [TC_BaiDuSearch.class] - #################### Test Result is : 【 fail 】####################
+2018-01-21 01:10:15,905 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:10:15,905 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-21 01:10:15,905 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:10:15,905 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:10:15,905 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:10:15,905 INFO [root] - ###########################################################################################
+2018-01-21 01:10:15,905 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-21 01:10:15,905 INFO [root] - ################## Start to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:10:18,287 INFO [root] - 【Test 1】          http://blog.jpmovie.cn/?page_id=67
+2018-01-21 01:10:18,287 INFO [root] - 【Response 1】     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-21 01:10:18,287 INFO [root] - 【expect words】     关于小木屋
+2018-01-21 01:10:18,287 INFO [root] - 【Result 1】       pass
+2018-01-21 01:10:18,287 INFO [root] - ............
+2018-01-21 01:10:18,295 INFO [root] - ################## Finish to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:10:18,295 INFO [root] - #################### Test Result is : 【 pass 】####################
+2018-01-21 01:10:18,297 INFO [root] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:10:18,297 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-21 01:10:18,297 INFO [root] - ###########################################################################################
+2018-01-21 01:10:18,298 INFO [root] - ###########################################################################################
+2018-01-21 01:10:18,298 INFO [root] - ###########################################################################################
+2018-01-21 01:11:32,255 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:11:32,256 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:11:32,256 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:11:35,657 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 fail 】  {can not go to home page}
+2018-01-21 01:11:35,668 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:11:36,075 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\bin\logs\2018-01-21 01_11_32_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_11_36_74.jpg ~~~~~~~~~~~~
+2018-01-21 01:11:36,089 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:11:38,574 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 测试搜索 】  : (测试搜索功能)  is 【 pass 】 
+2018-01-21 01:11:38,578 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:11:38,959 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\bin\logs\2018-01-21 01_11_32_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_11_38_958.jpg ~~~~~~~~~~~~
+2018-01-21 01:11:38,963 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:11:38,971 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:11:38,971 INFO [TC_BaiDuSearch.class] - #################### Test Result is : 【 fail 】####################
+2018-01-21 01:11:38,971 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:11:38,971 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-21 01:11:38,971 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:11:38,971 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:11:38,971 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:11:38,971 INFO [root] - ###########################################################################################
+2018-01-21 01:11:38,971 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-21 01:11:38,972 INFO [root] - ################## Start to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:11:41,099 INFO [root] - 【Test 1】          http://blog.jpmovie.cn/?page_id=67
+2018-01-21 01:11:41,099 INFO [root] - 【Response 1】     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-21 01:11:41,099 INFO [root] - 【expect words】     关于小木屋
+2018-01-21 01:11:41,099 INFO [root] - 【Result 1】       pass
+2018-01-21 01:11:41,099 INFO [root] - ............
+2018-01-21 01:11:41,107 INFO [root] - ################## Finish to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:11:41,107 INFO [root] - #################### Test Result is : 【 pass 】####################
+2018-01-21 01:11:41,107 INFO [root] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:11:41,180 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-21 01:11:41,180 INFO [root] - ###########################################################################################
+2018-01-21 01:11:41,180 INFO [root] - ###########################################################################################
+2018-01-21 01:11:41,180 INFO [root] - ###########################################################################################
+2018-01-21 01:13:26,280 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:13:26,281 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:13:26,281 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:13:27,913 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 fail 】  {can not go to home page}
+2018-01-21 01:13:27,924 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:13:28,269 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\bin\logs\2018-01-21 01_13_26_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_13_28_269.jpg ~~~~~~~~~~~~
+2018-01-21 01:13:28,283 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:13:30,682 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 测试搜索 】  : (测试搜索功能)  is 【 pass 】 
+2018-01-21 01:13:30,687 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:13:30,967 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\bin\logs\2018-01-21 01_13_26_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_13_30_967.jpg ~~~~~~~~~~~~
+2018-01-21 01:13:30,970 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:13:30,977 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:13:30,977 INFO [TC_BaiDuSearch.class] - #################### Test Result is : 【 fail 】####################
+2018-01-21 01:13:30,977 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:13:30,977 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-21 01:13:30,977 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:13:30,977 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:13:30,977 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:13:30,977 INFO [root] - ###########################################################################################
+2018-01-21 01:13:30,977 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-21 01:13:30,978 INFO [root] - ################## Start to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:13:34,008 INFO [root] - 【Test 1】          http://blog.jpmovie.cn/?page_id=67
+2018-01-21 01:13:34,009 INFO [root] - 【Response 1】     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-21 01:13:34,009 INFO [root] - 【expect words】     关于小木屋
+2018-01-21 01:13:34,009 INFO [root] - 【Result 1】       pass
+2018-01-21 01:13:34,009 INFO [root] - ............
+2018-01-21 01:13:34,023 INFO [root] - ################## Finish to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:13:34,023 INFO [root] - #################### Test Result is : 【 pass 】####################
+2018-01-21 01:13:34,023 INFO [root] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:13:34,024 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-21 01:13:34,024 INFO [root] - ###########################################################################################
+2018-01-21 01:13:34,024 INFO [root] - ###########################################################################################
+2018-01-21 01:13:34,024 INFO [root] - ###########################################################################################
+2018-01-21 01:14:23,344 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:14:23,344 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:14:23,344 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:14:25,068 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 fail 】  {can not go to home page}
+2018-01-21 01:14:25,077 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:14:25,416 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\bin\logs\2018-01-21 01_14_23_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_14_25_416.jpg ~~~~~~~~~~~~
+2018-01-21 01:14:25,429 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:14:28,114 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 测试搜索 】  : (测试搜索功能)  is 【 pass 】 
+2018-01-21 01:14:28,119 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:14:28,381 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\bin\logs\2018-01-21 01_14_23_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_14_28_381.jpg ~~~~~~~~~~~~
+2018-01-21 01:14:28,388 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:14:28,394 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:14:28,394 INFO [TC_BaiDuSearch.class] - #################### Test Result is : 【 fail 】####################
+2018-01-21 01:14:28,394 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:14:28,394 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-21 01:14:28,394 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:14:28,394 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:14:28,394 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:14:28,395 INFO [root] - ###########################################################################################
+2018-01-21 01:14:28,395 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-21 01:14:28,395 INFO [root] - ################## Start to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:14:30,205 INFO [root] - 【Test 1】          http://blog.jpmovie.cn/?page_id=67
+2018-01-21 01:14:30,206 INFO [root] - 【Response 1】     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-21 01:14:30,206 INFO [root] - 【expect words】     关于小木屋
+2018-01-21 01:14:30,206 INFO [root] - 【Result 1】       pass
+2018-01-21 01:14:30,206 INFO [root] - ............
+2018-01-21 01:14:30,214 INFO [root] - ################## Finish to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:14:30,214 INFO [root] - #################### Test Result is : 【 pass 】####################
+2018-01-21 01:14:30,214 INFO [root] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:14:30,216 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-21 01:14:30,216 INFO [root] - ###########################################################################################
+2018-01-21 01:14:30,217 INFO [root] - ###########################################################################################
+2018-01-21 01:14:30,217 INFO [root] - ###########################################################################################
+2018-01-21 01:23:31,550 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:23:31,550 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:23:31,550 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:23:35,149 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 fail 】  {can not go to home page}
+2018-01-21 01:23:35,160 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:23:35,893 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\bin\logs\2018-01-21 01_23_31_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_23_35_893.jpg ~~~~~~~~~~~~
+2018-01-21 01:23:35,918 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:23:38,897 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 测试搜索 】  : (测试搜索功能)  is 【 pass 】 
+2018-01-21 01:23:38,903 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:23:39,196 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\webautomationtestdriver\bin\logs\2018-01-21 01_23_31_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_23_39_196.jpg ~~~~~~~~~~~~
+2018-01-21 01:23:39,202 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:23:39,209 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:23:39,209 INFO [TC_BaiDuSearch.class] - #################### Test Result is : 【 fail 】####################
+2018-01-21 01:23:39,209 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:23:39,209 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-21 01:23:39,209 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:23:39,209 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:23:39,209 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:23:39,209 INFO [root] - ###########################################################################################
+2018-01-21 01:23:39,209 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-21 01:23:39,209 INFO [root] - ################## Start to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:23:41,946 INFO [root] - 【Test 1】          http://blog.jpmovie.cn/?page_id=67
+2018-01-21 01:23:41,946 INFO [root] - 【Response 1】     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-21 01:23:41,947 INFO [root] - 【expect words】     关于小木屋
+2018-01-21 01:23:41,947 INFO [root] - 【Result 1】       pass
+2018-01-21 01:23:41,947 INFO [root] - ............
+2018-01-21 01:23:41,955 INFO [root] - ################## Finish to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:23:41,955 INFO [root] - #################### Test Result is : 【 pass 】####################
+2018-01-21 01:23:41,956 INFO [root] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:23:41,957 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-21 01:23:41,957 INFO [root] - ###########################################################################################
+2018-01-21 01:23:41,957 INFO [root] - ###########################################################################################
+2018-01-21 01:23:41,957 INFO [root] - ###########################################################################################

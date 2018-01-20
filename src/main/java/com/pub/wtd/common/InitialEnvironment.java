@@ -97,6 +97,19 @@ public class InitialEnvironment {
 		return proxy;
 	}
 
+
+	public String getMailSubject(){
+		String mailSubject = "Automation Test Report";
+		try {
+			Element urlElement = (Element) doc
+					.selectSingleNode("//MailSubject");
+			mailSubject = urlElement.attributeValue("value");
+		}catch (Exception ignore){
+
+		}
+		return mailSubject;
+	}
+
 	/**
 	 * get WebDrivers
 	 */
