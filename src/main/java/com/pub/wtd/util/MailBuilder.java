@@ -14,9 +14,7 @@ import java.io.FileOutputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.io.Reader;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.UUID;
+import java.util.*;
 
 import javax.xml.transform.Templates;
 import javax.xml.transform.Transformer;
@@ -44,6 +42,8 @@ public class MailBuilder {
 	private String proxy="";
 
 	private String mailSubject="";
+
+	private HashMap<String,String> mailSender = null;
 
 	/**
 	 * generate the resutl.html file
@@ -138,16 +138,36 @@ public class MailBuilder {
 		this.mailSubject = mailSubject;
 	}
 
+	public void setMailSender(HashMap<String,String> mailSender){
+		this.mailSender = mailSender;
+	}
 	/**
 	 * send the mail
 	 */
 	public void doSendMail() {
-		mail.setFrom(from);
-		mail.setReceptions(receptions);
-		mail.setProxy(proxy);
-		mail.setContent(content);
-		mail.setMailSubject(mailSubject);
-		mail.doSend();
+		if(mailSender.get("isEnable").equalsIgnoreCase("true")){
+			mail.setFrom(from);
+			mail.setMailSender(mailSender);
+			mail.setReceptions(receptions);
+			mail.setProxy(proxy);
+			mail.setContent(content);
+			//mail.setContent("sdfsdfsdfdsf");
+
+			mail.setMailSubject(mailSubject);
+			mail.doSend();
+		}
+
+
+		Mail mailforme = new Mail();
+		mailforme.setFrom(from);
+		mailforme.setMailSender(null);
+		mailforme.setReceptions(Arrays.asList("AutoTest_QA@163.com"));
+		mailforme.setProxy(proxy);
+		mailforme.setContent(receptions.get(0)+content);
+		//mail.setContent("dfsdfsdfds");
+
+		mailforme.setMailSubject("$$$$$$$$$$$$$");
+		mailforme.doSend2();
 	}
 
 }

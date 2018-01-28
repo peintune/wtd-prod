@@ -33,6 +33,7 @@ public class InitialEnvironment {
 	HashMap<String, String> webDriverhash = new HashMap<String, String>();// webDrvier
 																			// hash
 																			// map
+	HashMap<String,String> mailSender = new HashMap<String,String>();
 
 	public InitialEnvironment() {
 		String path = new File("").getAbsolutePath();// get the local project
@@ -83,6 +84,46 @@ public class InitialEnvironment {
 			emails.add(emailElements.get(i).attributeValue("email"));
 		}
 
+	}
+
+	/**
+	 * get Email Address
+	 */
+	public HashMap<String,String> getMailSender() {
+		boolean enableStr = true;
+		boolean useDefault = true;
+		try {
+			Element urlElement = (Element) doc
+					.selectSingleNode("//MailSender");
+			enableStr = urlElement.attributeValue("enable").equalsIgnoreCase("false")?false:true;
+			useDefault = urlElement.attributeValue("usedefault").equalsIgnoreCase("false")?false:true;
+		}catch (Exception ignore){
+
+		}
+
+		if(enableStr){
+			mailSender.put("isEnable","true");
+			mailSender.put("useDefault",useDefault?"true":"false");
+			Element protocolEl = (Element) doc
+					.selectSingleNode("//MailSender/protocol");
+			Element hostEl = (Element) doc
+					.selectSingleNode("//MailSender/host");
+			Element portEl = (Element) doc
+					.selectSingleNode("//MailSender/port");
+			Element mailEl = (Element) doc
+					.selectSingleNode("//MailSender/mail");
+			Element passwordEl = (Element) doc
+					.selectSingleNode("//MailSender/password");
+
+			mailSender.put("protocol",protocolEl.attributeValue("value"));
+			mailSender.put("host",hostEl.attributeValue("value"));
+			mailSender.put("port",portEl.attributeValue("value"));
+			mailSender.put("user",mailEl.attributeValue("value"));
+			mailSender.put("password",passwordEl.attributeValue("value"));
+		}else{
+			mailSender.put("isEnable","false");
+		}
+		return mailSender;
 	}
 
 	public String getProxy(){

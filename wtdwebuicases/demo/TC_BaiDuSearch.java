@@ -39,13 +39,13 @@ public class TC_BaiDuSearch extends BaseCase {
 	 * 更多更新信息请到 blog.jpmovie.cn
 	 */
 	public void execute() {
-		//new HomePagetest(sessionData).goToPage();// 自定义一个页面，所有case都可以共享这个页面,直接在case中打开这个页面。
+		//new HomePagetest(sessionData).goToPage();// 也可以自定义一个页面，所有case都可以共享这个页面,直接在case中打开这个页面。
 
 		webDriver.get("http://www.baidu.com");//利用webdriver执行打开页面
 
 		setDescription("测试百度搜索功能");// 设置case的描述信息
 		
-		if (isCurrentURL(hostName+"/")|| isCurrentURL(hostName )) {// 判断当前页面是否是百度主页
+		if (isCurrentURL("https://www.baidu.com")|| isCurrentURL(hostName )) {// 判断当前页面是否是百度主页
 
 			setPointResult("GoToHome", "回到首页", "pass", "NULL");//设置此测试点通过
 		} else {

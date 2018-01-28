@@ -656,8 +656,13 @@ public class Engine {
 			webDrvier.close();
 			webDrvier.quit();
 		}catch (Exception ignore){}
+
 		mergeAllResult(logFolder);
-		sendReport(logFolder + "/allResult.xml", initialEnv.getMailReceptors() ,initialEnv.getProxy(),initialEnv.getMailSubject());
+
+
+		sendReport(logFolder + "/allResult.xml", initialEnv.getMailReceptors() ,initialEnv.getProxy(),initialEnv.getMailSubject(),initialEnv.getMailSender());
+
+
 		try {
 			Thread.sleep(2000);
 		} catch (InterruptedException e) {
@@ -682,12 +687,13 @@ public class Engine {
 	/**
 	 * send the test report
 	 */
-	private void sendReport(String allResultXml, List<String> receptions,String proxy,String mailSubject) {
+	private void sendReport(String allResultXml, List<String> receptions,String proxy,String mailSubject,HashMap<String,String> mailSender) {
 		MailBuilder sm = new MailBuilder();
 
 		sm.setReceptions(receptions);
 		sm.setProxy(proxy);
 		sm.setMailSubject(mailSubject);
+		sm.setMailSender(mailSender);
 
 		InputStreamReader isr;
 		try {

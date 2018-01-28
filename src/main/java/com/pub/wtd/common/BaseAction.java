@@ -200,7 +200,16 @@ public class BaseAction {
 			if (null == url || url.equals(""))
 				return false;
 
-			return webDriver.getCurrentUrl().toLowerCase()
+			String currentUrl =webDriver.getCurrentUrl().toLowerCase();
+
+			if(currentUrl.endsWith("/")){
+				currentUrl = currentUrl.substring(0,currentUrl.length()-1);
+			}
+
+			if(url.endsWith("/")){
+				url = url.substring(0,url.length()-1);
+			}
+			return currentUrl.toLowerCase()
 					.equals(url.toLowerCase());
 
 		} catch (Exception e) {

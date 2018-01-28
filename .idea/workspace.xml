@@ -8,191 +8,91 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3eb28dc-0849-4fa9-baee-e9c49d496691" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ant_ant_1_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__colt_colt_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_gwt_gwt_dev_2_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_icu_icu4j_50_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_apache_jsp_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_annotations_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_jndi_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_plus_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlets_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_toolchain_jetty_schemas_3_1_M0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jasper_apache_el_8_0_9_M3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jasper_apache_jsp_8_0_9_M3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_5_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_5_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_util_5_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tapestry_tapestry_4_0_2.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/css/ui_css.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/doc/WTD Case 开发手册 - Marxico - Markdown Editor for Evernote.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/doc/WTD Case 开发手册.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/doc/debugrun.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/doc/log.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/doc/report.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/doc/run2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/doc/snappydata.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/doc/wtd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/activation-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/android-2.3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/dom4j-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/icu4j-2.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/javax.mail-1.5.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/jaxen-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/jdom-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/json-20080701.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/laf-plugin-7.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/laf-widget-7.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/log4j-1.2.17.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/mysql-connector-java-5.0.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/opengl-api-gl1.1-android-2.1_r1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/selenium-server-standalone-2.53.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/substance-7.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/trident-1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/trident-7.3-swing.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/wtd.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/x86-3.3.0-v3346.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/x86_64-3.3.0-v3346.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/xercesImpl-2.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/xml-apis-1.0.b2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/xmlParserAPIs-2.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/xom-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/xpp3-1.1.4c.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/license/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-10 00_20_23_ChromeDriver/allResult.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-10 00_20_23_ChromeDriver/common_member_TC_BaiDuSearch/2018-01-10 00_20_24_883.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-10 00_20_23_ChromeDriver/common_member_TC_BaiDuSearch/2018-01-10 00_20_27_578.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-10 00_20_23_ChromeDriver/common_member_TC_BaiDuSearch/TC_BaiDuSearch.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-10 00_20_23_ChromeDriver/common_member_TC_BaiDuSearch/result.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 20_58_36_ChromeDriver/allResult.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 20_58_36_ChromeDriver/common_member_TC_BaiDuSearch/2018-01-20 20_58_36_512.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 20_58_36_ChromeDriver/common_member_TC_BaiDuSearch/TC_BaiDuSearch.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 20_58_36_ChromeDriver/common_member_TC_BaiDuSearch/result.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 20_59_22_ChromeDriver/allResult.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 20_59_22_ChromeDriver/common_demo_TC_BaiDuSearch/2018-01-20 20_59_24_364.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 20_59_22_ChromeDriver/common_demo_TC_BaiDuSearch/2018-01-20 20_59_27_262.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 20_59_22_ChromeDriver/common_demo_TC_BaiDuSearch/TC_BaiDuSearch.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 20_59_22_ChromeDriver/common_demo_TC_BaiDuSearch/result.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 20_59_43_ChromeDriver/allResult.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 20_59_43_ChromeDriver/common_demo_TC_BaiDuSearch2/2018-01-20 20_59_47_753.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 20_59_43_ChromeDriver/common_demo_TC_BaiDuSearch2/2018-01-20 20_59_50_620.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 20_59_43_ChromeDriver/common_demo_TC_BaiDuSearch2/TC_BaiDuSearch2.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 20_59_43_ChromeDriver/common_demo_TC_BaiDuSearch2/result.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 21_04_05_ChromeDriver/allResult.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 21_04_05_ChromeDriver/common_demo_TC_BaiDuSearch2/2018-01-20 21_04_07_890.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 21_04_05_ChromeDriver/common_demo_TC_BaiDuSearch2/2018-01-20 21_04_10_902.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 21_04_05_ChromeDriver/common_demo_TC_BaiDuSearch2/TC_BaiDuSearch2.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-20 21_04_05_ChromeDriver/common_demo_TC_BaiDuSearch2/result.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/log.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/resultHtml/4ddb5496-d4ac-4d63-9479-78751a8805b2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/resultHtml/c40c05d5-0326-4f3d-a3fe-19c10053e69b.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/resultHtml/c6ba14d1-f2e0-4e4c-9293-f50b9c1b45b7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/resultHtml/d6ff16f8-56a4-4070-ab5f-9ef0bc05c083.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/resultHtml/f23343f9-5833-41d9-85c6-cb00203e253f.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/resultHtml/test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/tools/IEDriverServer.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/tools/chromedriver.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/tools/commonCase.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/tools/interfaceCase.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/tools/runningData.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/webuicaseclasses/TC_GoHome.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/webuicaseclasses/demo/TC_BaiDuSearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/webuicaseclasses/demo/TC_BaiDuSearch2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/webuicaseclasses/jpmovie/TC_Jpmovie.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/webuicaseclasses/member/TC_BaiDuSearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/webuicaseclasses/pages/HomePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/webuicaseclasses/pages/HomePageWithLogIn.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/webuicaseclasses/pages/HomePageWithOutLogIn.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/config/caselist.cfg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/config/conf/log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/config/conf/report.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/config/conf/wtd.cfg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/out/production/runcasetest/RunCaseTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/out/production/runcasetest/com/pub/wtd/runcase/util/Environment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/runcasetest/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/runcasetest/runcasetest.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/runcasetest/src/RunCaseTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/runcasetest/src/com/pub/wtd/runcase/util/Environment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtd.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtd.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtdapicases/interfaces/public/logintoByApp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtdapicases/interfaces/public/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtdapicases/interfaces/xiaomuwu/TC_XiaomuwuAbout.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtdapicases/interfaces/xiaomuwu/TC_changepwd.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtdapplication.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtdwebuicases/demo/TC_BaiDuSearch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtdwebuicases/demo/TC_BaiDuSearch2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtdwebuicases/demo/TC_XiaomuwuLogin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtdwebuicases/demo/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtdwebuicases/pages/HomePage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtdwebuicases/pages/HomePageWithLogIn.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtdwebuicases/pages/HomePageWithOutLogIn.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtdwebuicases/pages/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/activation-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/android-2.3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/dom4j-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/icu4j-2.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/javax.mail-1.5.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/jaxen-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/jdom-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/json-20080701.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/laf-plugin-7.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/laf-widget-7.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/log4j-1.2.17.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/mysql-connector-java-5.0.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/opengl-api-gl1.1-android-2.1_r1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/selenium-server-standalone-2.53.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/substance-7.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/trident-1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/trident-7.3-swing.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/wtd.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/x86-3.3.0-v3346.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/x86_64-3.3.0-v3346.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/xercesImpl-2.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/xml-apis-1.0.b2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/xmlParserAPIs-2.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/xom-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/xpp3-1.1.4c.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-10 00_20_23_ChromeDriver/allResult.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-10 00_20_23_ChromeDriver/common_member_TC_BaiDuSearch/2018-01-10 00_20_24_883.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-10 00_20_23_ChromeDriver/common_member_TC_BaiDuSearch/2018-01-10 00_20_27_578.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-10 00_20_23_ChromeDriver/common_member_TC_BaiDuSearch/TC_BaiDuSearch.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-10 00_20_23_ChromeDriver/common_member_TC_BaiDuSearch/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_07_56_ChromeDriver/allResult.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_07_56_ChromeDriver/common_demo_TC_BaiDuSearch/2018-01-21 01_08_10_45.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_07_56_ChromeDriver/common_demo_TC_BaiDuSearch/2018-01-21 01_08_12_790.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_07_56_ChromeDriver/common_demo_TC_BaiDuSearch/TC_BaiDuSearch.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_07_56_ChromeDriver/common_demo_TC_BaiDuSearch/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_07_56_ChromeDriver/demo_TC_XiaomuwuAbout/TC_XiaomuwuAbout.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_07_56_ChromeDriver/demo_TC_XiaomuwuAbout/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_10_08_ChromeDriver/allResult.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_10_08_ChromeDriver/common_demo_TC_BaiDuSearch/2018-01-21 01_10_13_265.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_10_08_ChromeDriver/common_demo_TC_BaiDuSearch/2018-01-21 01_10_15_894.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_10_08_ChromeDriver/common_demo_TC_BaiDuSearch/TC_BaiDuSearch.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_10_08_ChromeDriver/common_demo_TC_BaiDuSearch/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_10_08_ChromeDriver/demo_TC_XiaomuwuAbout/TC_XiaomuwuAbout.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_10_08_ChromeDriver/demo_TC_XiaomuwuAbout/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_11_32_ChromeDriver/allResult.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_11_32_ChromeDriver/common_demo_TC_BaiDuSearch/2018-01-21 01_11_36_74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_11_32_ChromeDriver/common_demo_TC_BaiDuSearch/2018-01-21 01_11_38_958.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_11_32_ChromeDriver/common_demo_TC_BaiDuSearch/TC_BaiDuSearch.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_11_32_ChromeDriver/common_demo_TC_BaiDuSearch/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_11_32_ChromeDriver/demo_TC_XiaomuwuAbout/TC_XiaomuwuAbout.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_11_32_ChromeDriver/demo_TC_XiaomuwuAbout/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_13_26_ChromeDriver/allResult.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_13_26_ChromeDriver/common_demo_TC_BaiDuSearch/2018-01-21 01_13_28_269.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_13_26_ChromeDriver/common_demo_TC_BaiDuSearch/2018-01-21 01_13_30_967.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_13_26_ChromeDriver/common_demo_TC_BaiDuSearch/TC_BaiDuSearch.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_13_26_ChromeDriver/common_demo_TC_BaiDuSearch/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_13_26_ChromeDriver/demo_TC_XiaomuwuAbout/TC_XiaomuwuAbout.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_13_26_ChromeDriver/demo_TC_XiaomuwuAbout/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_14_23_ChromeDriver/allResult.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_14_23_ChromeDriver/common_demo_TC_BaiDuSearch/2018-01-21 01_14_25_416.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_14_23_ChromeDriver/common_demo_TC_BaiDuSearch/2018-01-21 01_14_28_381.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_14_23_ChromeDriver/common_demo_TC_BaiDuSearch/TC_BaiDuSearch.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_14_23_ChromeDriver/common_demo_TC_BaiDuSearch/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_14_23_ChromeDriver/demo_TC_XiaomuwuAbout/TC_XiaomuwuAbout.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_14_23_ChromeDriver/demo_TC_XiaomuwuAbout/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_23_31_ChromeDriver/allResult.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_23_31_ChromeDriver/common_demo_TC_BaiDuSearch/2018-01-21 01_23_35_893.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_23_31_ChromeDriver/common_demo_TC_BaiDuSearch/2018-01-21 01_23_39_196.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_23_31_ChromeDriver/common_demo_TC_BaiDuSearch/TC_BaiDuSearch.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_23_31_ChromeDriver/common_demo_TC_BaiDuSearch/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_23_31_ChromeDriver/demo_TC_XiaomuwuAbout/TC_XiaomuwuAbout.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2018-01-21 01_23_31_ChromeDriver/demo_TC_XiaomuwuAbout/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-21 01_46_52_ChromeDriver/allResult.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-21 01_46_52_ChromeDriver/common_demo_TC_BaiDuSearch/TC_BaiDuSearch.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-21 01_46_52_ChromeDriver/common_demo_TC_BaiDuSearch/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-21 01_46_52_ChromeDriver/demo_TC_XiaomuwuAbout/TC_XiaomuwuAbout.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/2018-01-21 01_46_52_ChromeDriver/demo_TC_XiaomuwuAbout/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/resultHtml/7ce2b0c9-4b64-4acb-8587-2a3dd9802b86.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/pub/wtd/util/Mail$1.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/webuicaseclasses/demo/TC_BaiDuSearch.class" afterPath="$PROJECT_DIR$/bin/webuicaseclasses/demo/TC_BaiDuSearch.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/wtd.jar" afterPath="$PROJECT_DIR$/classes/artifacts/wtd/bin/lib/wtd.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/webuicaseclasses/demo/TC_BaiDuSearch.class" afterPath="$PROJECT_DIR$/classes/artifacts/wtd/bin/webuicaseclasses/demo/TC_BaiDuSearch.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/artifacts/wtd_jar/wtd.jar" afterPath="$PROJECT_DIR$/classes/artifacts/wtd_jar/wtd.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pub/wtd/common/BaseAction.class" afterPath="$PROJECT_DIR$/target/classes/com/pub/wtd/common/BaseAction.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pub/wtd/common/Engine.class" afterPath="$PROJECT_DIR$/target/classes/com/pub/wtd/common/Engine.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pub/wtd/common/InitialEnvironment.class" afterPath="$PROJECT_DIR$/target/classes/com/pub/wtd/common/InitialEnvironment.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pub/wtd/util/Mail$Attachment.class" afterPath="$PROJECT_DIR$/target/classes/com/pub/wtd/util/Mail$Attachment.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pub/wtd/util/Mail.class" afterPath="$PROJECT_DIR$/target/classes/com/pub/wtd/util/Mail.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/pub/wtd/util/MailBuilder.class" afterPath="$PROJECT_DIR$/target/classes/com/pub/wtd/util/MailBuilder.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/demo/TC_BaiDuSearch.class" afterPath="$PROJECT_DIR$/target/classes/demo/TC_BaiDuSearch.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/wtd.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/wtd.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_standalone_2_53_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_standalone_2_53_0.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/license/license.txt" afterPath="$PROJECT_DIR$/bin/license/license.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/logs/log.log" afterPath="$PROJECT_DIR$/bin/logs/log.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/tools/runningData.txt" afterPath="$PROJECT_DIR$/bin/tools/runningData.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/caselist.cfg.xml" afterPath="$PROJECT_DIR$/config/caselist.cfg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/license/license.txt" afterPath="$PROJECT_DIR$/classes/artifacts/wtd/bin/license/license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/log.log" afterPath="$PROJECT_DIR$/classes/artifacts/wtd/bin/logs/log.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/bin/tools/runningData.txt" afterPath="$PROJECT_DIR$/classes/artifacts/wtd/bin/tools/runningData.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/config/conf/report.xsl" afterPath="$PROJECT_DIR$/classes/artifacts/wtd/config/conf/report.xsl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/config/conf/wtd.cfg.xml" afterPath="$PROJECT_DIR$/classes/artifacts/wtd/config/conf/wtd.cfg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtd.bat" afterPath="$PROJECT_DIR$/classes/artifacts/wtd/wtd.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/artifacts/wtd/wtdwebuicases/demo/TC_BaiDuSearch.java" afterPath="$PROJECT_DIR$/classes/artifacts/wtd/wtdwebuicases/demo/TC_BaiDuSearch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/conf/report.xsl" afterPath="$PROJECT_DIR$/config/conf/report.xsl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/conf/wtd.cfg.xml" afterPath="$PROJECT_DIR$/config/conf/wtd.cfg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/pub/wtd/common/BaseAction.java" afterPath="$PROJECT_DIR$/src/main/java/com/pub/wtd/common/BaseAction.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/pub/wtd/common/Engine.java" afterPath="$PROJECT_DIR$/src/main/java/com/pub/wtd/common/Engine.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/pub/wtd/common/InitialEnvironment.java" afterPath="$PROJECT_DIR$/src/main/java/com/pub/wtd/common/InitialEnvironment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/pub/wtd/util/Mail.java" afterPath="$PROJECT_DIR$/src/main/java/com/pub/wtd/util/Mail.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/pub/wtd/util/MailBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/com/pub/wtd/util/MailBuilder.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/wtd.bat" afterPath="$PROJECT_DIR$/src/main/resources/wtd.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wtd.iml" afterPath="$PROJECT_DIR$/wtd.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/wtd.bat" afterPath="$PROJECT_DIR$/target/classes/wtd.bat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wtdwebuicases/demo/TC_BaiDuSearch.java" afterPath="$PROJECT_DIR$/wtdwebuicases/demo/TC_BaiDuSearch.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -221,65 +121,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="452">
-                <caret line="34" column="90" lean-forward="false" selection-start-line="34" selection-start-column="90" selection-end-line="34" selection-end-column="90" />
-                <folding>
-                  <marker date="1516470168973" expanded="true" signature="5210:6017" ph="..." />
-                  <marker date="1516470168973" expanded="true" signature="5508:5731" ph="..." />
-                  <marker date="1516470168973" expanded="true" signature="5800:6008" ph="..." />
-                  <marker date="1516470168973" expanded="true" signature="6126:6890" ph="/**...*/" />
-                  <marker date="1516470168973" expanded="true" signature="6916:7477" ph="{...}" />
-                  <marker date="1516470168973" expanded="true" signature="7507:7791" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wtd.bat" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/wtd.bat">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Mail.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/util/Mail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+            <state relative-caret-position="313">
+              <caret line="125" column="47" lean-forward="true" selection-start-line="125" selection-start-column="47" selection-end-line="125" selection-end-column="47" />
               <folding>
-                <element signature="e#4604#4605#0" expanded="true" />
-                <element signature="e#4641#4642#0" expanded="true" />
+                <element signature="method#setHost#0;class#Mail#0" expanded="false" />
+                <element signature="method#doSend2#0;class#Mail#0" expanded="false" />
+                <element signature="class#Attachment#0;class#Mail#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="90" column="21" lean-forward="false" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="caselist.cfg.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/caselist.cfg.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -287,13 +138,16 @@
       <file leaf-file-name="MailBuilder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/util/MailBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="143" column="30" lean-forward="false" selection-start-line="143" selection-start-column="30" selection-end-line="143" selection-end-column="30" />
+            <state relative-caret-position="13">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
-                <element signature="e#3163#3164#0" expanded="true" />
-                <element signature="e#3188#3189#0" expanded="true" />
-                <element signature="e#3238#3239#0" expanded="true" />
-                <element signature="e#3275#3276#0" expanded="true" />
+                <element signature="docComment;class#MailBuilder#0" expanded="false" />
+                <element signature="e#1018#1026#0" expanded="true" />
+                <element signature="docComment;method#getResultHtml#0;class#MailBuilder#0" expanded="false" />
+                <element signature="method#getResultHtml#0;class#MailBuilder#0" expanded="false" />
+                <element signature="docComment;method#setContent#0;class#MailBuilder#0" expanded="false" />
+                <element signature="method#setContent#0;class#MailBuilder#0" expanded="false" />
+                <element signature="method#doSendMail#0;class#MailBuilder#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -302,8 +156,58 @@
       <file leaf-file-name="wtd.cfg.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/conf/wtd.cfg.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            <state relative-caret-position="600">
+              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="report.xsl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/conf/report.xsl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TC_XiaomuwuLogin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wtdwebuicases/demo/TC_XiaomuwuLogin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TC_BaiDuSearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wtdwebuicases/demo/TC_BaiDuSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="851">
+              <caret line="72" column="5" lean-forward="true" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wtd.bat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/wtd.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/common/BaseAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4650">
+              <caret line="204" column="41" lean-forward="false" selection-start-line="204" selection-start-column="41" selection-end-line="204" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -312,43 +216,12 @@
       <file leaf-file-name="InitialEnvironment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/common/InitialEnvironment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="87" column="23" lean-forward="false" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="26" />
+            <state relative-caret-position="416">
+              <caret line="105" column="38" lean-forward="false" selection-start-line="105" selection-start-column="28" selection-end-line="105" selection-end-column="38" />
               <folding>
+                <element signature="e#941#956#0" expanded="true" />
+                <element signature="method#getProxy#0;class#InitialEnvironment#0" expanded="false" />
                 <element signature="method#setWebDrivers#0;class#InitialEnvironment#0" expanded="false" />
-                <element signature="e#4380#4381#0" expanded="true" />
-                <element signature="e#4471#4472#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Engine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/common/Engine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="685" column="16" lean-forward="false" selection-start-line="685" selection-start-column="16" selection-end-line="685" selection-end-column="16" />
-              <folding>
-                <element signature="method#generateResultXml#0;class#Engine#0" expanded="false" />
-                <element signature="docComment;method#setCommonTestCaseResult#0;class#Engine#0" expanded="false" />
-                <element signature="method#setCommonTestCaseResult#0;class#Engine#0" expanded="false" />
-                <element signature="method#setInterfaceTestCaseResult#0;class#Engine#0" expanded="false" />
-                <element signature="method#mergeAllResult#0;class#Engine#0" expanded="false" />
-                <element signature="method#search#0;class#Engine#0" expanded="false" />
-                <element signature="docComment;method#tearDown#0;class#Engine#0" expanded="false" />
-                <element signature="method#clearEnv#0;class#Engine#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InterfaceTestEntity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/entities/InterfaceTestEntity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-              <folding>
-                <element signature="e#1642#1643#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -365,8 +238,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>mkdir</find>
-      <find>logs</find>
       <find>mkdir()</find>
       <find>log.log</find>
       <find>GlobalInfo</find>
@@ -395,6 +266,8 @@
       <find>158</find>
       <find>javaCompilerTool</find>
       <find>proxy</find>
+      <find>user</find>
+      <find>from</find>
     </findStrings>
     <replaceStrings>
       <replace>hekun&lt;158109016@qq.com&gt;</replace>
@@ -418,7 +291,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/ui/RunCaseBll.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/ui/CaseFilterEngine.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/ui/InitUIEnv.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/ui/GenerateTheRunningData.java" />
@@ -430,11 +302,9 @@
         <option value="$PROJECT_DIR$/wtdwebuicases/member/TC_GoHome.java" />
         <option value="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST2.MF" />
         <option value="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
-        <option value="$PROJECT_DIR$/src/main/resources/wtd.bat" />
         <option value="$PROJECT_DIR$/src/main/resources/wtdapplication.bat" />
         <option value="$PROJECT_DIR$/config/conf/log4j.properties" />
         <option value="$PROJECT_DIR$/wtdwebuicases/member/TC_ChangeUserInfo.java" />
-        <option value="$PROJECT_DIR$/bin/license/license.txt" />
         <option value="$PROJECT_DIR$/bin/tools/commonCase.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/util/JavaCompilerTool.java" />
         <option value="$PROJECT_DIR$/wtdwebuicases/pages/HomePageWithOutLogIn.java" />
@@ -446,7 +316,6 @@
         <option value="$PROJECT_DIR$/wtdwebuicases/jpmovie/util/Htmlunit.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/common/BaseCase.java" />
         <option value="$PROJECT_DIR$/wtdwebuicases/jpmovie/TC_Jpmovie.java" />
-        <option value="$PROJECT_DIR$/config/conf/report.xsl" />
         <option value="$PROJECT_DIR$/wtdwebuicases/member/TC_BaiDuSearch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/common/Main.java" />
         <option value="$PROJECT_DIR$/wtdwebuicases/xiaomuwu/TC_XiaomuwuLogin.java" />
@@ -460,15 +329,19 @@
         <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/util/HttpSender.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/common/InitWebDriver.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/util/Htmlunit.java" />
-        <option value="$PROJECT_DIR$/wtdwebuicases/demo/TC_BaiDuSearch.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/config/caselist.cfg.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/common/InitialEnvironment.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/common/Engine.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/util/MailBuilder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/util/Mail.java" />
-        <option value="$PROJECT_DIR$/config/conf/wtd.cfg.xml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/common/Engine.java" />
+        <option value="$PROJECT_DIR$/wtdwebuicases/demo/TC_BaiDuSearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/util/MailBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/common/BaseAction.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/wtd.bat" />
+        <option value="$PROJECT_DIR$/config/conf/wtd.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/common/InitialEnvironment.java" />
+        <option value="$PROJECT_DIR$/bin/license/license.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/pub/wtd/util/Mail.java" />
+        <option value="$PROJECT_DIR$/config/conf/report.xsl" />
       </list>
     </option>
   </component>
@@ -515,10 +388,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="2902" />
+    <option name="height" value="1582" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -593,6 +466,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -616,7 +491,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="wtdwebuicases" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -630,15 +505,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="wtdwebuicases" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -652,19 +523,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="wtdapicases" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
+              <option name="myItemId" value="interfaces" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -678,45 +541,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="wtdapicases" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="interfaces" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WTD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webautomationtestdriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wtd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
+              <option name="myItemId" value="demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -730,56 +563,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wtd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WTD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webautomationtestdriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wtd" />
+              <option name="myItemId" value="bin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -794,12 +583,11 @@
     <property name="last_directory_selection" value="$PROJECT_DIR$/wtdwebuicases/member" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\src\main\resources\runcasetest" />
+      <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\config" />
+      <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\bin" />
       <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\src\main\resources" />
-      <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\src\main\java\com\pub\wtd\util" />
-      <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\src\main\resources\runcasetest\src\com\pub\wtd\runcase\util" />
-      <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\wtdapicases\interfaces\public" />
-      <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\wtdwebuicases\demo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="demo" />
@@ -807,11 +595,12 @@
       <recent name="xiaomuwu" />
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\src\main\resources\runcasetest" />
-      <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\config" />
-      <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\bin" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\src\main\resources" />
+      <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\src\main\java\com\pub\wtd\util" />
+      <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\src\main\resources\runcasetest\src\com\pub\wtd\runcase\util" />
+      <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\wtdapicases\interfaces\public" />
+      <recent name="F:\work\projects\ideaworkspace\webautomationtestdriver\wtdwebuicases\demo" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -1393,12 +1182,16 @@
       <workItem from="1515512178969" duration="2945000" />
       <workItem from="1516449733900" duration="3609000" />
       <workItem from="1516454973843" duration="2752000" />
-      <workItem from="1516457757302" duration="6708000" />
+      <workItem from="1516457757302" duration="6938000" />
+      <workItem from="1516875054140" duration="1791000" />
+      <workItem from="1516969699410" duration="703000" />
+      <workItem from="1517032808504" duration="10497000" />
+      <workItem from="1517104096106" duration="3161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168268000" />
+    <option name="totallyTimeSpent" value="184650000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1410,38 +1203,38 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-11" y="-11" width="2902" height="1582" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21258135" sideWeight="0.49786553" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51626897" sideWeight="0.3976546" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51626897" sideWeight="0.39605543" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28741866" sideWeight="0.20948827" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.047441363" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0021691974" sideWeight="0.49624866" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19609262" sideWeight="0.21268657" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.030206112" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0021691974" sideWeight="0.49413645" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15075922" sideWeight="0.4594017" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275488" sideWeight="0.49786553" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275488" sideWeight="0.49573562" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1641791" sideWeight="0.49582464" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20753376" sideWeight="0.49582464" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5368764" sideWeight="0.4642857" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24840085" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18055555" sideWeight="0.50417536" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28741866" sideWeight="0.7905117" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29826465" sideWeight="0.78731346" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18221258" sideWeight="0.46215352" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1459,11 +1252,23 @@
           <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/wtdwebuicases/demo/TC_BaiDuSearch.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/pub/wtd/common/BaseAction.java</url>
+          <line>202</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="58" />
+      <option name="time" value="70" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1472,9 +1277,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wtdwebuicases/jpmovie/util/XmlFileParser.java" />
-    <entry file="file://$PROJECT_DIR$/wtdwebuicases/jpmovie/util/HtmlunitClient.java" />
-    <entry file="file://$PROJECT_DIR$/wtdwebuicases/jpmovie/util/FTPUpload.java" />
     <entry file="file://$PROJECT_DIR$/wtdwebuicases/jpmovie/util/FtpUtil.java" />
     <entry file="file://$PROJECT_DIR$/wtdwebuicases/jpmovie/util/ReducePic.java" />
     <entry file="file://$PROJECT_DIR$/wtdwebuicases/jpmovie/util/Character.java" />
@@ -1500,26 +1302,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/util/JavaCompilerTool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wtdwebuicases/jpmovie/util/HttpSender.java" />
     <entry file="jar://$USER_HOME$/.m2/repositoryidea/com/sun/mail/javax.mail/1.5.6/javax.mail-1.5.6-sources.jar!/javax/mail/Transport.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="66" column="31" lean-forward="false" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/conf/report.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12025">
-          <caret line="481" column="82" lean-forward="false" selection-start-line="481" selection-start-column="82" selection-end-line="481" selection-end-column="82" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1534,7 +1321,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1573,7 +1359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1000">
           <caret line="49" column="35" lean-forward="false" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1622,14 +1407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wtdapicases/interfaces/demo/TC_changepwd.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="69" lean-forward="false" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/runcasetest/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1641,12 +1418,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3075">
           <caret line="149" column="56" lean-forward="false" selection-start-line="149" selection-start-column="56" selection-end-line="149" selection-end-column="56" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#868#879#0" expanded="false" />
-            <element signature="e#4084#4085#0" expanded="false" />
-            <element signature="e#4111#4112#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1668,7 +1439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1676,71 +1446,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#1331#1332#0" expanded="false" />
-            <element signature="e#1356#1357#0" expanded="false" />
-            <element signature="e#1608#1609#0" expanded="false" />
-            <element signature="e#1628#1629#0" expanded="false" />
-            <element signature="e#1663#1664#0" expanded="false" />
-            <element signature="e#1688#1689#0" expanded="false" />
-            <element signature="e#1739#1740#0" expanded="false" />
-            <element signature="e#1776#1777#0" expanded="false" />
-            <element signature="e#1821#1822#0" expanded="false" />
-            <element signature="e#1848#1849#0" expanded="false" />
-            <element signature="e#1893#1894#0" expanded="false" />
-            <element signature="e#1922#1923#0" expanded="false" />
-            <element signature="e#1955#1956#0" expanded="false" />
-            <element signature="e#1976#1977#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/common/BaseAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#3748#3760#0" expanded="false" />
-            <element signature="e#4165#4177#0" expanded="false" />
-            <element signature="e#5313#5325#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wtdwebuicases/demo/TC_BaiDuSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1475">
-          <caret line="65" column="45" lean-forward="false" selection-start-line="65" selection-start-column="45" selection-end-line="65" selection-end-column="45" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wtdwebuicases/demo/TC_XiaomuwuLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wtdapicases/interfaces/demo/TC_XiaomuwuAbout.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
+        <state relative-caret-position="2250">
           <caret line="90" column="21" lean-forward="false" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
           <folding />
         </state>
@@ -1748,30 +1459,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/entities/InterfaceTestEntity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
+        <state relative-caret-position="1575">
           <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding>
-            <element signature="e#1642#1643#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/common/InitialEnvironment.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/util/FileSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="87" column="23" lean-forward="false" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="26" />
-          <folding>
-            <element signature="method#setWebDrivers#0;class#InitialEnvironment#0" expanded="false" />
-            <element signature="e#4380#4381#0" expanded="true" />
-            <element signature="e#4471#4472#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-57">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/util/GlobalInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/caselist.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/util/JavaCompilerTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="17" column="77" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="77" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/common/Engine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="685" column="16" lean-forward="false" selection-start-line="685" selection-start-column="16" selection-end-line="685" selection-end-column="16" />
+        <state relative-caret-position="11075">
+          <caret line="662" column="0" lean-forward="false" selection-start-line="662" selection-start-column="0" selection-end-line="662" selection-end-column="0" />
           <folding>
             <element signature="method#generateResultXml#0;class#Engine#0" expanded="false" />
             <element signature="docComment;method#setCommonTestCaseResult#0;class#Engine#0" expanded="false" />
@@ -1785,51 +1513,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/util/MailBuilder.java">
+    <entry file="file://$PROJECT_DIR$/wtdapicases/interfaces/demo/TC_changepwd.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="143" column="30" lean-forward="false" selection-start-line="143" selection-start-column="30" selection-end-line="143" selection-end-column="30" />
-          <folding>
-            <element signature="e#3163#3164#0" expanded="true" />
-            <element signature="e#3188#3189#0" expanded="true" />
-            <element signature="e#3238#3239#0" expanded="true" />
-            <element signature="e#3275#3276#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="100">
+          <caret line="4" column="69" lean-forward="false" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="93" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/caselist.cfg.xml">
+    <entry file="file://$PROJECT_DIR$/wtdapicases/interfaces/demo/TC_XiaomuwuAbout.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/util/Mail.java">
+    <entry file="file://$PROJECT_DIR$/wtdwebuicases/demo/TC_XiaomuwuLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+        <state relative-caret-position="825">
+          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/common/BaseAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4650">
+          <caret line="204" column="41" lean-forward="false" selection-start-line="204" selection-start-column="41" selection-end-line="204" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wtdwebuicases/demo/TC_BaiDuSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="72" column="5" lean-forward="true" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/wtd.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/util/MailBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
-            <element signature="e#4604#4605#0" expanded="true" />
-            <element signature="e#4641#4642#0" expanded="true" />
+            <element signature="docComment;class#MailBuilder#0" expanded="false" />
+            <element signature="e#1018#1026#0" expanded="true" />
+            <element signature="docComment;method#getResultHtml#0;class#MailBuilder#0" expanded="false" />
+            <element signature="method#getResultHtml#0;class#MailBuilder#0" expanded="false" />
+            <element signature="docComment;method#setContent#0;class#MailBuilder#0" expanded="false" />
+            <element signature="method#setContent#0;class#MailBuilder#0" expanded="false" />
+            <element signature="method#doSendMail#0;class#MailBuilder#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/conf/wtd.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="452">
-            <caret line="34" column="90" lean-forward="false" selection-start-line="34" selection-start-column="90" selection-end-line="34" selection-end-column="90" />
+          <first_editor relative-caret-position="350">
+            <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
             <folding>
               <marker date="1516470168973" expanded="true" signature="5210:6017" ph="..." />
               <marker date="1516470168973" expanded="true" signature="5508:5731" ph="..." />
@@ -1843,10 +1595,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/wtd.bat">
+    <entry file="file://$PROJECT_DIR$/bin/license/license.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="250">
+          <caret line="7" column="188" lean-forward="false" selection-start-line="7" selection-start-column="188" selection-end-line="7" selection-end-column="188" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/common/InitialEnvironment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="105" column="38" lean-forward="false" selection-start-line="105" selection-start-column="28" selection-end-line="105" selection-end-column="38" />
+          <folding>
+            <element signature="e#941#956#0" expanded="true" />
+            <element signature="method#getProxy#0;class#InitialEnvironment#0" expanded="false" />
+            <element signature="method#setWebDrivers#0;class#InitialEnvironment#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/pub/wtd/util/Mail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="125" column="47" lean-forward="true" selection-start-line="125" selection-start-column="47" selection-end-line="125" selection-end-column="47" />
+          <folding>
+            <element signature="method#setHost#0;class#Mail#0" expanded="false" />
+            <element signature="method#doSend2#0;class#Mail#0" expanded="false" />
+            <element signature="class#Attachment#0;class#Mail#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/conf/wtd.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/conf/report.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
           <folding />
         </state>
       </provider>
