@@ -409,10 +409,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1940" />
-    <option name="height" value="1100" />
+    <option name="x" value="182" />
+    <option name="y" value="26" />
+    <option name="width" value="1701" />
+    <option name="height" value="925" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -484,41 +484,6 @@
             <path>
               <item name="WTD" type="b2602c69:ProjectViewProjectNode" />
               <item name="webautomationtestdriver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WTD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webautomationtestdriver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WTD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webautomationtestdriver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WTD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webautomationtestdriver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WTD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webautomationtestdriver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wtd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WTD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webautomationtestdriver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wtd" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -862,12 +827,12 @@
       <workItem from="1517032808504" duration="10497000" />
       <workItem from="1517104096106" duration="5637000" />
       <workItem from="1517114858390" duration="623000" />
-      <workItem from="1561134670366" duration="1013000" />
+      <workItem from="1561134670366" duration="1402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188762000" />
+    <option name="totallyTimeSpent" value="189151000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -879,9 +844,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1940" height="1100" extended-state="0" />
+    <frame x="182" y="26" width="1701" height="925" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49582464" visible="true" weight="0.21186441" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49582464" visible="true" weight="0.24257125" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -898,9 +863,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49786553" weight="0.21258135" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.14641081" side_tool="true" visible="true" weight="0.49486652" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5051546" side_tool="true" visible="true" weight="0.3266583" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49413645" weight="0.0021691974" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49573562" weight="0.3275488" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49484536" visible="true" weight="0.3266583" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.39605543" weight="0.51626897" />
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
