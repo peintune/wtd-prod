@@ -37,7 +37,7 @@ public class TC_XiaomuwuLogin extends BaseCase {
 	 */
 	public void execute() {
 
-		webDriver.get("http://blog.jpmovie.cn");//利用webdriver执行打开页面
+		webDriver.get("http://blog.tomiyo.cn");//利用webdriver执行打开页面
 
 		setDescription("测试小木屋登录功能");// 设置case的描述信息
 

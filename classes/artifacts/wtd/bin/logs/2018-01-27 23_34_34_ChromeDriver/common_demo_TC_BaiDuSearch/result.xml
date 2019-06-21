@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestResult><TestCase name="TC_BaiDuSearch" caseModule="demo" caseType="common" description="" result="" errorInfo=""><TestPoint name="GoToHome" caseType="common" result="fail" description="回到首页" errorInfo="can not go to home page"/></TestCase></TestResult>

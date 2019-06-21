@@ -36,7 +36,7 @@ public class TC_BaiDuSearch extends BaseCase {
 	 * 6，向诸如文本框之类的控件输入值：sendKeysBy(By,String),sendKeysById(By,String)
 	 * 7，所有webdriver支持的操作。
 	 *
-	 * 更多更新信息请到 blog.jpmovie.cn
+	 * 更多更新信息请到 blog.tomiyo.cn
 	 */
 	public void execute() {
 		//new HomePagetest(sessionData).goToPage();// 也可以自定义一个页面，所有case都可以共享这个页面,直接在case中打开这个页面。
@@ -61,7 +61,7 @@ public class TC_BaiDuSearch extends BaseCase {
 
 
 	public void testSearch(){
-		sendKeysById("kw","blog.jpmovie.cn");
+		sendKeysById("kw","blog.tomiyo.cn");
 		clickById("su");
 		if(isTextExist("小木屋 | 免费,自由,开源,实用软件工具")){
 			setPointResult("测试搜索","测试搜索功能","pass","NULL");
